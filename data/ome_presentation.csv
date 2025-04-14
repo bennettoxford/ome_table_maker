@@ -1,0 +1,1058 @@
+ing_dmd_code,ing_name,bnf_code,bnf_name,strnt_nmrtr_val_mg,strnt_dnmtr_val_ml,ome,ome_dose
+373492002,Fentanyl,0407020A0AAAFAF,Fentanyl 50micrograms/hour transdermal patches,0.050000000,,100.0,360.0
+373492002,Fentanyl,0407020A0BBABAF,Durogesic 50micrograms transdermal patches,0.050000000,,100.0,360.0
+373492002,Fentanyl,0407020A0BBAJAF,Durogesic DTrans 50micrograms/hour transdermal patches,0.050000000,,100.0,360.0
+373492002,Fentanyl,0407020A0BDABAF,Tilofyl 50micrograms/hour transdermal patches,0.050000000,,100.0,360.0
+373492002,Fentanyl,0407020A0BEACAF,Matrifen 50micrograms/hour transdermal patches,0.050000000,,100.0,360.0
+373492002,Fentanyl,0407020A0BFACAF,Mezolar Matrix 50micrograms/hour transdermal patches,0.050000000,,100.0,360.0
+373492002,Fentanyl,0407020A0BGABAF,Fentalis Reservoir 50micrograms/hour transdermal patches,0.050000000,,100.0,360.0
+373492002,Fentanyl,0407020A0BHABAF,Osmach 50micrograms/hour transdermal patches,0.050000000,,100.0,360.0
+373492002,Fentanyl,0407020A0BLABAF,Osmanil 50micrograms/hour transdermal patches,0.050000000,,100.0,360.0
+373492002,Fentanyl,0407020A0BMABAF,Victanyl 50micrograms/hour transdermal patches,0.050000000,,100.0,360.0
+373492002,Fentanyl,0407020A0BQACAF,Fencino 50micrograms/hour transdermal patches,0.050000000,,100.0,360.0
+373492002,Fentanyl,0407020A0BRAEAF,Opiodur 50micrograms/hour transdermal patches (Pfizer),0.050000000,,100.0,360.0
+373492002,Fentanyl,0407020A0BRAHAF,Opiodur 50micrograms/hour transdermal patches (RX Farma),0.050000000,,100.0,360.0
+373492002,Fentanyl,0407020A0BRAMAF,Opiodur 50micrograms/hour transdermal patches (Zentiva),0.050000000,,100.0,360.0
+373492002,Fentanyl,0407020A0BUACAF,Mylafent 50micrograms/hour transdermal patches,0.050000000,,100.0,360.0
+373492002,Fentanyl,0407020A0BVACAF,Yemex 50micrograms/hour transdermal patches,0.050000000,,100.0,360.0
+373492002,Fentanyl,0407020A0BZACAF,Fenylat 50micrograms/hour transdermal patches,0.050000000,,100.0,360.0
+373492002,Fentanyl,0407020A0AAAGAG,Fentanyl 75micrograms/hour transdermal patches,0.075000000,,100.0,540.0
+373492002,Fentanyl,0407020A0BBACAG,Durogesic 75micrograms transdermal patches,0.075000000,,100.0,540.0
+373492002,Fentanyl,0407020A0BBAKAG,Durogesic DTrans 75micrograms/hour transdermal patches,0.075000000,,100.0,540.0
+373492002,Fentanyl,0407020A0BDACAG,Tilofyl 75micrograms/hour transdermal patches,0.075000000,,100.0,540.0
+373492002,Fentanyl,0407020A0BEADAG,Matrifen 75micrograms/hour transdermal patches,0.075000000,,100.0,540.0
+373492002,Fentanyl,0407020A0BFADAG,Mezolar Matrix 75micrograms/hour transdermal patches,0.075000000,,100.0,540.0
+373492002,Fentanyl,0407020A0BGACAG,Fentalis Reservoir 75micrograms/hour transdermal patches,0.075000000,,100.0,540.0
+373492002,Fentanyl,0407020A0BHACAG,Osmach 75micrograms/hour transdermal patches,0.075000000,,100.0,540.0
+373492002,Fentanyl,0407020A0BLACAG,Osmanil 75micrograms/hour transdermal patches,0.075000000,,100.0,540.0
+373492002,Fentanyl,0407020A0BMACAG,Victanyl 75micrograms/hour transdermal patches,0.075000000,,100.0,540.0
+373492002,Fentanyl,0407020A0BQADAG,Fencino 75micrograms/hour transdermal patches,0.075000000,,100.0,540.0
+373492002,Fentanyl,0407020A0BRACAG,Opiodur 75micrograms/hour transdermal patches (Pfizer),0.075000000,,100.0,540.0
+373492002,Fentanyl,0407020A0BRAIAG,Opiodur 75micrograms/hour transdermal patches (RX Farma),0.075000000,,100.0,540.0
+373492002,Fentanyl,0407020A0BRANAG,Opiodur 75micrograms/hour transdermal patches (Zentiva),0.075000000,,100.0,540.0
+373492002,Fentanyl,0407020A0BUADAG,Mylafent 75micrograms/hour transdermal patches,0.075000000,,100.0,540.0
+373492002,Fentanyl,0407020A0BVADAG,Yemex 75micrograms/hour transdermal patches,0.075000000,,100.0,540.0
+373492002,Fentanyl,0407020A0BZADAG,Fenylat 75micrograms/hour transdermal patches,0.075000000,,100.0,540.0
+373492002,Fentanyl,0407020A0AAAEAE,Fentanyl 25micrograms/hour transdermal patches,0.025000000,,100.0,180.0
+373492002,Fentanyl,0407020A0BBAAAE,Durogesic 25micrograms transdermal patches,0.025000000,,100.0,180.0
+373492002,Fentanyl,0407020A0BBAIAE,Durogesic DTrans 25micrograms/hour transdermal patches,0.025000000,,100.0,180.0
+373492002,Fentanyl,0407020A0BDAAAE,Tilofyl 25micrograms/hour transdermal patches,0.025000000,,100.0,180.0
+373492002,Fentanyl,0407020A0BEABAE,Matrifen 25micrograms/hour transdermal patches,0.025000000,,100.0,180.0
+373492002,Fentanyl,0407020A0BFABAE,Mezolar Matrix 25micrograms/hour transdermal patches,0.025000000,,100.0,180.0
+373492002,Fentanyl,0407020A0BGAAAE,Fentalis Reservoir 25micrograms/hour transdermal patches,0.025000000,,100.0,180.0
+373492002,Fentanyl,0407020A0BHAAAE,Osmach 25micrograms/hour transdermal patches,0.025000000,,100.0,180.0
+373492002,Fentanyl,0407020A0BLAAAE,Osmanil 25micrograms/hour transdermal patches,0.025000000,,100.0,180.0
+373492002,Fentanyl,0407020A0BMAAAE,Victanyl 25micrograms/hour transdermal patches,0.025000000,,100.0,180.0
+373492002,Fentanyl,0407020A0BQABAE,Fencino 25micrograms/hour transdermal patches,0.025000000,,100.0,180.0
+373492002,Fentanyl,0407020A0BRABAE,Opiodur 25micrograms/hour transdermal patches (Pfizer),0.025000000,,100.0,180.0
+373492002,Fentanyl,0407020A0BRAGAE,Opiodur 25micrograms/hour transdermal patches (RX Farma),0.025000000,,100.0,180.0
+373492002,Fentanyl,0407020A0BRALAE,Opiodur 25micrograms/hour transdermal patches (Zentiva),0.025000000,,100.0,180.0
+373492002,Fentanyl,0407020A0BUABAE,Mylafent 25micrograms/hour transdermal patches,0.025000000,,100.0,180.0
+373492002,Fentanyl,0407020A0BVABAE,Yemex 25micrograms/hour transdermal patches,0.025000000,,100.0,180.0
+373492002,Fentanyl,0407020A0BZABAE,Fenylat 25micrograms/hour transdermal patches,0.025000000,,100.0,180.0
+373492002,Fentanyl,0407020A0AAAHAH,Fentanyl 100micrograms/hour transdermal patches,0.100000000,,100.0,720.0
+373492002,Fentanyl,0407020A0BBADAH,Durogesic 100micrograms transdermal patches,0.100000000,,100.0,720.0
+373492002,Fentanyl,0407020A0BBALAH,Durogesic DTrans 100micrograms/hour transdermal patches,0.100000000,,100.0,720.0
+373492002,Fentanyl,0407020A0BDADAH,Tilofyl 100micrograms/hour transdermal patches,0.100000000,,100.0,720.0
+373492002,Fentanyl,0407020A0BEAEAH,Matrifen 100micrograms/hour transdermal patches,0.100000000,,100.0,720.0
+373492002,Fentanyl,0407020A0BFAEAH,Mezolar Matrix 100micrograms/hour transdermal patches,0.100000000,,100.0,720.0
+373492002,Fentanyl,0407020A0BGADAH,Fentalis Reservoir 100micrograms/hour transdermal patches,0.100000000,,100.0,720.0
+373492002,Fentanyl,0407020A0BHADAH,Osmach 100micrograms/hour transdermal patches,0.100000000,,100.0,720.0
+373492002,Fentanyl,0407020A0BLADAH,Osmanil 100micrograms/hour transdermal patches,0.100000000,,100.0,720.0
+373492002,Fentanyl,0407020A0BMADAH,Victanyl 100micrograms/hour transdermal patches,0.100000000,,100.0,720.0
+373492002,Fentanyl,0407020A0BQAEAH,Fencino 100micrograms/hour transdermal patches,0.100000000,,100.0,720.0
+373492002,Fentanyl,0407020A0BRADAH,Opiodur 100micrograms/hour transdermal patches (Pfizer),0.100000000,,100.0,720.0
+373492002,Fentanyl,0407020A0BRAJAH,Opiodur 100micrograms/hour transdermal patches (RX Farma),0.100000000,,100.0,720.0
+373492002,Fentanyl,0407020A0BRAPAH,Opiodur 100micrograms/hour transdermal patches (Zentiva),0.100000000,,100.0,720.0
+373492002,Fentanyl,0407020A0BUAEAH,Mylafent 100micrograms/hour transdermal patches,0.100000000,,100.0,720.0
+373492002,Fentanyl,0407020A0BVAEAH,Yemex 100micrograms/hour transdermal patches,0.100000000,,100.0,720.0
+373492002,Fentanyl,0407020A0BZAEAH,Fenylat 100micrograms/hour transdermal patches,0.100000000,,100.0,720.0
+373492002,Fentanyl,0407020A0AAAUAU,Fentanyl 12micrograms/hour transdermal patches,0.012000000,,100.0,86.39999999999999
+373492002,Fentanyl,0407020A0BBAMAU,Durogesic DTrans 12micrograms/hour transdermal patches,0.012000000,,100.0,86.39999999999999
+373492002,Fentanyl,0407020A0BEAAAU,Matrifen 12micrograms/hour transdermal patches,0.012000000,,100.0,86.39999999999999
+373492002,Fentanyl,0407020A0BFAAAU,Mezolar Matrix 12micrograms/hour transdermal patches,0.012000000,,100.0,86.39999999999999
+373492002,Fentanyl,0407020A0BLAEAU,Osmanil 12micrograms/hour transdermal patches,0.012000000,,100.0,86.39999999999999
+373492002,Fentanyl,0407020A0BMAEAU,Victanyl 12micrograms/hour transdermal patches,0.012000000,,100.0,86.39999999999999
+373492002,Fentanyl,0407020A0BQAAAU,Fencino 12micrograms/hour transdermal patches,0.012000000,,100.0,86.39999999999999
+373492002,Fentanyl,0407020A0BRAAAU,Opiodur 12micrograms/hour transdermal patches (Pfizer),0.012000000,,100.0,86.39999999999999
+373492002,Fentanyl,0407020A0BRAFAU,Opiodur 12micrograms/hour transdermal patches (RX Farma),0.012000000,,100.0,86.39999999999999
+373492002,Fentanyl,0407020A0BRAKAU,Opiodur 12micrograms/hour transdermal patches (Zentiva),0.012000000,,100.0,86.39999999999999
+373492002,Fentanyl,0407020A0BUAAAU,Mylafent 12micrograms/hour transdermal patches,0.012000000,,100.0,86.39999999999999
+373492002,Fentanyl,0407020A0BVAAAU,Yemex 12micrograms/hour transdermal patches,0.012000000,,100.0,86.39999999999999
+373492002,Fentanyl,0407020A0BZAAAU,Fenylat 12micrograms/hour transdermal patches,0.012000000,,100.0,86.39999999999999
+373492002,Fentanyl,0407020A0AABWBW,Fentanyl 37.5microgram/hour transdermal patches,0.037500000,,100.0,270.0
+373492002,Fentanyl,0407020A0BFAFBW,Mezolar Matrix 37.5microgram/hour transdermal patches,0.037500000,,100.0,270.0
+373492002,Fentanyl,1502010Z0AAAAAA,Bupivacaine 100mg (0.1%) / Fentanyl 200microg/100ml inf bags,0.002000000,1.000000000,150.0,30.0
+373492002,Fentanyl,1502010Z0AAABAB,Bupivacaine 250mg (0.1%) / Fentanyl 500microg/250ml inf bags,0.002000000,1.000000000,150.0,75.0
+373492002,Fentanyl,1502010Z0BBAAAB,Bufyl 1mg/ml and 2micrograms/ml 250ml infusion bags,0.002000000,1.000000000,150.0,75.0
+373492002,Fentanyl,1502010Z0AAACAC,Bupivacaine 500mg/500ml (0.1%) / Fentanyl 1mg/500ml inf bags,0.002000000,1.000000000,150.0,150.0
+373492002,Fentanyl,1502010Z0BBABAC,Bufyl 1mg/ml and 2micrograms/ml 500ml infusion bags,0.002000000,1.000000000,150.0,150.0
+322538006,Dihydrocodeine tartrate,0407010N0AAAAAA,Co-dydramol 10mg/500mg tablets,10.000000000,,0.1,1.0
+322538006,Dihydrocodeine tartrate,0407010N0BCAAAA,Galake 10mg/500mg tablets,10.000000000,,0.1,1.0
+322538006,Dihydrocodeine tartrate,0407010N0BIAAAA,Eroset 500mg/10mg tablets,10.000000000,,0.1,1.0
+322538006,Dihydrocodeine tartrate,0407020G0AAACAC,Dihydrocodeine 30mg tablets,30.000000000,,0.1,3.0
+322538006,Dihydrocodeine tartrate,0407010N0AAAHAH,Co-dydramol 20mg/500mg tablets,20.000000000,,0.1,2.0
+322538006,Dihydrocodeine tartrate,0407010N0BFAAAH,Dypracet 20mg/500mg tablets,20.000000000,,0.1,2.0
+322538006,Dihydrocodeine tartrate,0407010N0BGAAAH,Remedeine tablets,20.000000000,,0.1,2.0
+322538006,Dihydrocodeine tartrate,0407010N0AAAIAI,Co-dydramol 30mg/500mg tablets,30.000000000,,0.1,3.0
+322538006,Dihydrocodeine tartrate,0407010N0BFABAI,Dypracet 30mg/500mg tablets,30.000000000,,0.1,3.0
+322538006,Dihydrocodeine tartrate,0407010N0BGABAI,Remedeine Forte tablets,30.000000000,,0.1,3.0
+322538006,Dihydrocodeine tartrate,0407020G0AAADAD,Dihydrocodeine 60mg modified-release tablets,60.000000000,,0.1,6.0
+322538006,Dihydrocodeine tartrate,0407020G0BBAAAD,DHC Continus 60mg tablets,60.000000000,,0.1,6.0
+322538006,Dihydrocodeine tartrate,0407020G0AAAEAE,Dihydrocodeine 90mg modified-release tablets,90.000000000,,0.1,9.0
+322538006,Dihydrocodeine tartrate,0407020G0BBABAE,DHC Continus 90mg tablets,90.000000000,,0.1,9.0
+322538006,Dihydrocodeine tartrate,0407020G0AAAFAF,Dihydrocodeine 120mg modified-release tablets,120.000000000,,0.1,12.0
+322538006,Dihydrocodeine tartrate,0407020G0BBACAF,DHC Continus 120mg tablets,120.000000000,,0.1,12.0
+322538006,Dihydrocodeine tartrate,0407020G0AAAIAI,Dihydrocodeine 40mg tablets,40.000000000,,0.1,4.0
+322538006,Dihydrocodeine tartrate,0407020G0BCADAI,DF 118 Forte 40mg tablets,40.000000000,,0.1,4.0
+322538006,Dihydrocodeine tartrate,0407010N0AAAJAJ,Co-dydramol 7.46mg/500mg tablets,7.460000000,,0.1,0.746
+322538006,Dihydrocodeine tartrate,0407010N0BEABAJ,Dental Pain Relief tablets,7.460000000,,0.1,0.746
+322538006,Dihydrocodeine tartrate,0407010N0BHABAJ,Paramol tablets,7.460000000,,0.1,0.746
+322538006,Dihydrocodeine tartrate,0407010N0AAAKAK,Co-dydramol 7.46mg/500mg effervescent tablets sugar free,7.460000000,,0.1,0.746
+322538006,Dihydrocodeine tartrate,0407010N0BHACAK,Paramol soluble tablets,7.460000000,,0.1,0.746
+322538006,Dihydrocodeine tartrate,0407020G0AAAAAA,Dihydrocodeine 10mg/5ml oral solution,2.000000000,1.000000000,0.1,0.2
+322538006,Dihydrocodeine tartrate,0407020G0AAABAB,Dihydrocodeine 50mg/1ml solution for injection ampoules,50.000000000,1.000000000,0.1,5.0
+322538006,Dihydrocodeine tartrate,0407010N0AAAGAG,Co-dydramol 10mg/500mg/5ml oral suspension,2.000000000,1.000000000,0.1,0.2
+322538006,Dihydrocodeine tartrate,0407020G0AAAPAP,Dihydrocodeine 10mg/5ml oral suspension,2.000000000,1.000000000,0.1,0.2
+322538006,Dihydrocodeine tartrate,0407020G0AAARAR,Dihydrocodeine 60mg/5ml oral liquid,12.000000000,1.000000000,0.1,2.4000000000000004
+322538006,Dihydrocodeine tartrate,0407020G0AAANAN,Dihydrocodeine 15mg/5ml oral solution,3.000000000,1.000000000,0.1,0.30000000000000004
+322538006,Dihydrocodeine tartrate,0407020G0AAAMAM,Dihydrocodeine 30mg/5ml oral solution,6.000000000,1.000000000,0.1,0.6000000000000001
+322538006,Dihydrocodeine tartrate,0407020G0AAAKAK,Dihydrocodeine 90mg/5ml oral solution,18.000000000,1.000000000,0.1,1.8
+322538006,Dihydrocodeine tartrate,0407010N0AAACAC,Co-dydramol 10mg/500mg/5ml oral solution,2.000000000,1.000000000,0.1,0.2
+261000,Codeine phosphate,0407010F0AAAAAA,Co-codamol 8mg/500mg tablets,8.000000000,,0.1,0.8
+261000,Codeine phosphate,0407010F0BXAAAA,Migraleve Yellow tablets,8.000000000,,0.1,0.8
+261000,Codeine phosphate,0407020C0AAADAD,Codeine 15mg tablets,15.000000000,,0.1,1.5
+261000,Codeine phosphate,0407020C0AAAEAE,Codeine 30mg tablets,30.000000000,,0.1,3.0
+261000,Codeine phosphate,0407020C0AAAFAF,Codeine 60mg tablets,60.000000000,,0.1,6.0
+261000,Codeine phosphate,0407010F0AAABAB,Co-codamol 8mg/500mg capsules,8.000000000,,0.1,0.8
+261000,Codeine phosphate,0407010F0BBAAAB,Paracodol 8mg/500mg capsules,8.000000000,,0.1,0.8
+261000,Codeine phosphate,0407010F0BCABAB,Migraine Relief 8mg/500mg capsules,8.000000000,,0.1,0.8
+261000,Codeine phosphate,0407010F0BWAAAB,Feminax Period Pain capsules,8.000000000,,0.1,0.8
+261000,Codeine phosphate,0407010F0AAACAC,Co-codamol 8mg/500mg effervescent tablets,8.000000000,,0.1,0.8
+261000,Codeine phosphate,0407010F0BBABAC,Paracodol 8mg/500mg effervescent tablets,8.000000000,,0.1,0.8
+261000,Codeine phosphate,0407010F0AAAHAH,Co-codamol 30mg/500mg tablets,30.000000000,,0.1,3.0
+261000,Codeine phosphate,0407010F0BGABAH,Solpadol 30mg/500mg caplets,30.000000000,,0.1,3.0
+261000,Codeine phosphate,0407010F0BHAAAH,Kapake 30mg/500mg tablets,30.000000000,,0.1,3.0
+261000,Codeine phosphate,0407010F0BSAAAH,Zapain 30mg/500mg tablets,30.000000000,,0.1,3.0
+261000,Codeine phosphate,0407010F0BYAAAH,Emcozin 30mg/500mg tablets,30.000000000,,0.1,3.0
+261000,Codeine phosphate,0407010F0AAADAD,Co-codamol 30mg/500mg capsules,30.000000000,,0.1,3.0
+261000,Codeine phosphate,0407010F0BEAAAD,Tylex 30mg/500mg capsules,30.000000000,,0.1,3.0
+261000,Codeine phosphate,0407010F0BGACAD,Solpadol 30mg/500mg capsules,30.000000000,,0.1,3.0
+261000,Codeine phosphate,0407010F0BHADAD,Kapake 30mg/500mg capsules,30.000000000,,0.1,3.0
+261000,Codeine phosphate,0407010F0BRAAAD,Medocodene 30mg/500mg capsules,30.000000000,,0.1,3.0
+261000,Codeine phosphate,0407010F0BSABAD,Zapain 30mg/500mg capsules,30.000000000,,0.1,3.0
+261000,Codeine phosphate,0407010F0AAAFAF,Co-codamol 30mg/500mg effervescent tablets,30.000000000,,0.1,3.0
+261000,Codeine phosphate,0407010F0BEABAF,Tylex 30mg/500mg effervescent tablets,30.000000000,,0.1,3.0
+261000,Codeine phosphate,0407010F0BGAAAF,Solpadol 30mg/500mg effervescent tablets,30.000000000,,0.1,3.0
+261000,Codeine phosphate,0407010F0BHAEAF,Kapake 30mg/500mg effervescent tablets,30.000000000,,0.1,3.0
+261000,Codeine phosphate,0407010F0BRABAF,Medocodene 30mg/500mg effervescent tablets,30.000000000,,0.1,3.0
+261000,Codeine phosphate,0407010F0AAAPAP,Co-codamol 12.8mg/500mg tablets,12.800000000,,0.1,1.2800000000000002
+261000,Codeine phosphate,0407010F0BIAAAP,Panadol Ultra 12.8mg/500mg tablets,12.800000000,,0.1,1.2800000000000002
+261000,Codeine phosphate,0407010F0BPAAAP,Solpadeine Max 12.8mg/500mg tablets,12.800000000,,0.1,1.2800000000000002
+261000,Codeine phosphate,0407010F0AAARAR,Co-codamol 60mg/1000mg effervescent pdr sachets sugar free,60.000000000,,0.1,6.0
+261000,Codeine phosphate,0407010F0BHACAR,Kapake Insts 60mg/1000mg effervescent powder sachets,60.000000000,,0.1,6.0
+261000,Codeine phosphate,0407010F0AAAQAQ,Co-codamol 30mg/500mg effervescent powder sachets sugar free,30.000000000,,0.1,3.0
+261000,Codeine phosphate,0407010F0BHABAQ,Kapake Insts 30mg/500mg effervescent powder sachets,30.000000000,,0.1,3.0
+261000,Codeine phosphate,0407041A0AAAGAG,Generic Migraleve Pink tablets,8.000000000,,0.1,0.8
+261000,Codeine phosphate,0407041A0BBABAG,Migraleve Pink tablets,8.000000000,,0.1,0.8
+261000,Codeine phosphate,1001010J0AAARAR,Ibuprofen 300mg modified-release / Codeine 20mg tablets,20.000000000,,0.1,2.0
+261000,Codeine phosphate,1001010J0B8AAAR,Codafen Continus tablets,20.000000000,,0.1,2.0
+261000,Codeine phosphate,0407010M0AAABAB,Co-codaprin 8mg/400mg dispersible tablets,8.000000000,,0.1,0.8
+261000,Codeine phosphate,0407010F0AAAKAK,Co-codamol 15mg/500mg tablets,15.000000000,,0.1,1.5
+261000,Codeine phosphate,0407010F0BHAFAK,Kapake 15mg/500mg tablets,15.000000000,,0.1,1.5
+261000,Codeine phosphate,0407010F0BVAAAK,Codipar 15mg/500mg tablets,15.000000000,,0.1,1.5
+261000,Codeine phosphate,1001010J0AAAYAY,Ibuprofen 200mg / Codeine 12.8mg tablets,12.800000000,,0.1,1.2800000000000002
+261000,Codeine phosphate,1001010J0B4AKAY,Nurofen Plus tablets,12.800000000,,0.1,1.2800000000000002
+261000,Codeine phosphate,1001010J0BMAEAY,Cuprofen PLUS tablets,12.800000000,,0.1,1.2800000000000002
+261000,Codeine phosphate,1001010J0CBAAAY,Solpaflex tablets,12.800000000,,0.1,1.2800000000000002
+261000,Codeine phosphate,1001010J0CFADAY,Boots Ibuprofen and Codeine 200mg/12.8mg tablets,12.800000000,,0.1,1.2800000000000002
+261000,Codeine phosphate,1001010J0DGAAAY,Solpadeine Migraine Ibuprofen & Codeine tablets,12.800000000,,0.1,1.2800000000000002
+261000,Codeine phosphate,0407010X0AAAYAY,Generic Ultramol Soluble tablets sugar free,8.000000000,,0.1,0.8
+261000,Codeine phosphate,0407010X0BZAAAY,Ultramol Soluble tablets,8.000000000,,0.1,0.8
+261000,Codeine phosphate,0407010X0AAAJAJ,Generic Solpadeine Plus tablets,8.000000000,,0.1,0.8
+261000,Codeine phosphate,0407010X0BEACAJ,Syndol Headache Relief tablets,8.000000000,,0.1,0.8
+261000,Codeine phosphate,0407010X0BMAAAJ,Solpadeine Plus tablets,8.000000000,,0.1,0.8
+261000,Codeine phosphate,0407010X0DDAAAJ,Veganin tablets,8.000000000,,0.1,0.8
+261000,Codeine phosphate,0407010W0AAADAD,Aspirin 500mg / Codeine 8mg dispersible tablets sugar free,8.000000000,,0.1,0.8
+261000,Codeine phosphate,0407010W0BHAAAD,Codis 500 dispersible tablets,8.000000000,,0.1,0.8
+261000,Codeine phosphate,0407010M0AAAAAA,Co-codaprin 8mg/400mg tablets,8.000000000,,0.1,0.8
+261000,Codeine phosphate,0407010M0BCAAAA,Boots Aspirin and Codeine tablets,8.000000000,,0.1,0.8
+261000,Codeine phosphate,0407020C0AAALAL,Codeine 10mg suppositories,10.000000000,,0.1,1.0
+261000,Codeine phosphate,0407010F0AAAVAV,Co-codamol 15mg/500mg capsules,15.000000000,,0.1,1.5
+261000,Codeine phosphate,0407010F0BVABAV,Codipar 15mg/500mg capsules,15.000000000,,0.1,1.5
+261000,Codeine phosphate,0407010F0AAAWAW,Co-codamol 15mg/500mg effervescent tablets sugar free,15.000000000,,0.1,1.5
+261000,Codeine phosphate,0407010F0BVACAW,Codipar 15mg/500mg effervescent tablets,15.000000000,,0.1,1.5
+261000,Codeine phosphate,0407020C0AABBBB,Codeine 20mg suppositories,20.000000000,,0.1,2.0
+261000,Codeine phosphate,0407020C0AAASAS,Codeine 30mg suppositories,30.000000000,,0.1,3.0
+261000,Codeine phosphate,0407020C0AAAKAK,Codeine 5mg suppositories,5.000000000,,0.1,0.5
+261000,Codeine phosphate,0407020C0AAAMAM,Codeine 6mg suppositories,6.000000000,,0.1,0.6000000000000001
+261000,Codeine phosphate,0407020C0AABCBC,Codeine 1mg suppositories,1.000000000,,0.1,0.1
+261000,Codeine phosphate,0407020C0AAAQAQ,Codeine 15mg suppositories,15.000000000,,0.1,1.5
+261000,Codeine phosphate,0407010F0AAAYAY,Co-codamol 60mg/1000mg tablets,60.000000000,,0.1,6.0
+261000,Codeine phosphate,0407010X0AABNBN,Generic Codasolve 8mg/500mg/30mg effervescent tab sugar free,8.000000000,,0.1,0.8
+261000,Codeine phosphate,0407010X0DFAABN,Codasolve 8mg/500mg/30mg effervescent tablets,8.000000000,,0.1,0.8
+261000,Codeine phosphate,0407010F0AABABA,Co-codamol 8mg/500mg effervescent tablets sugar free,8.000000000,,0.1,0.8
+261000,Codeine phosphate,0407010F0BZAABA,Zipamol Plus 8mg/500mg effervescent tablets,8.000000000,,0.1,0.8
+261000,Codeine phosphate,0407010F0AABBBB,Co-codamol 30mg/500mg effervescent tablets sugar free,30.000000000,,0.1,3.0
+261000,Codeine phosphate,0309010C0AAAAAA,Codeine 15mg/5ml linctus,3.000000000,1.000000000,0.1,0.30000000000000004
+261000,Codeine phosphate,0407020C0AAABAB,Codeine 25mg/5ml oral solution,5.000000000,1.000000000,0.1,0.5
+261000,Codeine phosphate,0407020C0AAAAAA,Codeine 60mg/1ml solution for injection ampoules,60.000000000,1.000000000,0.1,6.0
+261000,Codeine phosphate,0309010C0AAAEAE,Codeine 3mg/5ml linctus paediatric sugar free,0.600000000,1.000000000,0.1,0.06
+261000,Codeine phosphate,0309010C0BBABAE,Galcodine 3mg/5ml linctus paediatric,0.600000000,1.000000000,0.1,0.06
+261000,Codeine phosphate,0309010C0AAADAD,Codeine 15mg/5ml linctus sugar free,3.000000000,1.000000000,0.1,0.30000000000000004
+261000,Codeine phosphate,0309010C0BBAAAD,Galcodine 15mg/5ml linctus,3.000000000,1.000000000,0.1,0.30000000000000004
+261000,Codeine phosphate,0309020U0AAABAB,Generic Dimotane Co oral solution paediatric sugar free,0.600000000,1.000000000,0.1,0.06
+261000,Codeine phosphate,0309020U0BBABAB,Dimotane Co oral solution paediatric sugar free,0.600000000,1.000000000,0.1,0.06
+261000,Codeine phosphate,0309020U0AAAAAA,Generic Dimotane Co oral solution sugar free,2.000000000,1.000000000,0.1,0.2
+261000,Codeine phosphate,0309020U0BBAAAA,Dimotane Co oral solution sugar free,2.000000000,1.000000000,0.1,0.2
+261000,Codeine phosphate,0104020D0AAABAB,Kaolin light 1.5g/5ml / Codeine 5mg/5ml susp sugar free,1.000000000,1.000000000,0.1,0.1
+261000,Codeine phosphate,0104020D0BBAAAB,Kaodene oral suspension,1.000000000,1.000000000,0.1,0.1
+261000,Codeine phosphate,0309020X0AAAAAA,Terpin 32.5mg/5ml / Codeine 16mg/5ml linctus,3.200000000,1.000000000,0.1,0.32000000000000006
+261000,Codeine phosphate,0309010C0AAACAC,Codeine 3mg/5ml linctus paediatric,0.600000000,1.000000000,0.1,0.06
+261000,Codeine phosphate,0407020C0AABABA,Codeine 6.75mg/5ml oral solution,1.350000000,1.000000000,0.1,0.135
+261000,Codeine phosphate,0407020C0BBAABA,Bepro 6.75mg/5ml syrup,1.350000000,1.000000000,0.1,0.135
+261000,Codeine phosphate,0407020C0AAAYAY,Codeine 10mg/5ml oral liquid,2.000000000,1.000000000,0.1,0.4
+261000,Codeine phosphate,0407020C0AAAXAX,Codeine 5mg/5ml oral liquid,1.000000000,1.000000000,0.1,0.2
+261000,Codeine phosphate,0407020C0AAAPAP,Codeine 30mg/5ml oral solution,6.000000000,1.000000000,0.1,0.6000000000000001
+261000,Codeine phosphate,0407020C0AAANAN,Codeine 50mg/5ml oral solution,10.000000000,1.000000000,0.1,1.0
+261000,Codeine phosphate,0407020C0AAAVAV,Codeine 60mg/5ml oral solution,12.000000000,1.000000000,0.1,1.2000000000000002
+261000,Codeine phosphate,0407020C0AAAHAH,Codeine 30mg/1ml solution for injection ampoules,30.000000000,1.000000000,0.1,3.0
+261000,Codeine phosphate,0407010F0AAASAS,Co-codamol 8mg/500mg/5ml oral liquid,1.600000000,1.000000000,0.1,0.32000000000000006
+261000,Codeine phosphate,0407010F0AAAZAZ,Co-codamol 30mg/500mg/5ml oral solution sugar free,6.000000000,1.000000000,0.1,0.6000000000000001
+108505002,Tramadol hydrochloride,040702040AAAAAA,Tramadol 50mg capsules,50.000000000,,0.1,5.0
+108505002,Tramadol hydrochloride,040702040BBAAAA,Zydol 50mg capsules,50.000000000,,0.1,5.0
+108505002,Tramadol hydrochloride,040702040BCAAAA,Tramake 50mg capsules,50.000000000,,0.1,5.0
+108505002,Tramadol hydrochloride,040702040BDAAAA,Zamadol 50mg capsules,50.000000000,,0.1,5.0
+108505002,Tramadol hydrochloride,040702040AAAFAF,Tramadol 50mg soluble tablets sugar free,50.000000000,,0.1,5.0
+108505002,Tramadol hydrochloride,040702040BBAFAF,Zydol 50mg soluble tablets,50.000000000,,0.1,5.0
+108505002,Tramadol hydrochloride,040702040AAAEAE,Tramadol 200mg modified-release tablets,200.000000000,,0.1,20.0
+108505002,Tramadol hydrochloride,040702040BBAEAE,Zydol SR 200mg tablets,200.000000000,,0.1,20.0
+108505002,Tramadol hydrochloride,040702040BBAHAE,Zydol XL 200mg tablets,200.000000000,,0.1,20.0
+108505002,Tramadol hydrochloride,040702040BDAIAE,Zamadol 24hr 200mg modified-release tablets,200.000000000,,0.1,20.0
+108505002,Tramadol hydrochloride,040702040BEADAE,Dromadol SR 200mg tablets,200.000000000,,0.1,20.0
+108505002,Tramadol hydrochloride,040702040BEAFAE,Dromadol XL 200mg tablets,200.000000000,,0.1,20.0
+108505002,Tramadol hydrochloride,040702040BGACAE,Larapam SR 200mg tablets,200.000000000,,0.1,20.0
+108505002,Tramadol hydrochloride,040702040BHACAE,Mabron 200mg modified-release tablets (Morningside),200.000000000,,0.1,20.0
+108505002,Tramadol hydrochloride,040702040BHAFAE,Mabron 200mg modified-release tablets (Teva),200.000000000,,0.1,20.0
+108505002,Tramadol hydrochloride,040702040BIABAE,Tradorec XL 200mg tablets,200.000000000,,0.1,20.0
+108505002,Tramadol hydrochloride,040702040BKACAE,Tramulief SR 200mg tablets,200.000000000,,0.1,20.0
+108505002,Tramadol hydrochloride,040702040BLACAE,Zeridame SR 200mg tablets,200.000000000,,0.1,20.0
+108505002,Tramadol hydrochloride,040702040BNACAE,Marol 200mg modified-release tablets (Morningside),200.000000000,,0.1,20.0
+108505002,Tramadol hydrochloride,040702040BNADAE,Marol 200mg modified-release tablets (Teva),200.000000000,,0.1,20.0
+108505002,Tramadol hydrochloride,040702040BQACAE,Oldaram 200mg modified-release tablets,200.000000000,,0.1,20.0
+108505002,Tramadol hydrochloride,040702040BRACAE,Aceon 200mg modified-release tablets,200.000000000,,0.1,20.0
+108505002,Tramadol hydrochloride,040702040BSACAE,Tilodol SR 200mg tablets,200.000000000,,0.1,20.0
+108505002,Tramadol hydrochloride,040702040BTACAE,Invodol SR 200mg tablets,200.000000000,,0.1,20.0
+108505002,Tramadol hydrochloride,040702040BUACAE,Maneo 200mg modified-release tablets,200.000000000,,0.1,20.0
+108505002,Tramadol hydrochloride,040702040BVADAE,Zytram SR 200mg tablets,200.000000000,,0.1,20.0
+108505002,Tramadol hydrochloride,040702040BWABAE,Brimisol PR 200mg tablets,200.000000000,,0.1,20.0
+108505002,Tramadol hydrochloride,040702040AAANAN,Tramadol 400mg modified-release tablets,400.000000000,,0.1,40.0
+108505002,Tramadol hydrochloride,040702040BBAJAN,Zydol XL 400mg tablets,400.000000000,,0.1,40.0
+108505002,Tramadol hydrochloride,040702040BDAKAN,Zamadol 24hr 400mg modified-release tablets,400.000000000,,0.1,40.0
+108505002,Tramadol hydrochloride,040702040BEAHAN,Dromadol XL 400mg tablets,400.000000000,,0.1,40.0
+108505002,Tramadol hydrochloride,040702040AAAMAM,Tramadol 300mg modified-release tablets,300.000000000,,0.1,30.0
+108505002,Tramadol hydrochloride,040702040BBAIAM,Zydol XL 300mg tablets,300.000000000,,0.1,30.0
+108505002,Tramadol hydrochloride,040702040BDAJAM,Zamadol 24hr 300mg modified-release tablets,300.000000000,,0.1,30.0
+108505002,Tramadol hydrochloride,040702040BEAGAM,Dromadol XL 300mg tablets,300.000000000,,0.1,30.0
+108505002,Tramadol hydrochloride,040702040BIACAM,Tradorec XL 300mg tablets,300.000000000,,0.1,30.0
+108505002,Tramadol hydrochloride,040702040AAADAD,Tramadol 150mg modified-release tablets,150.000000000,,0.1,15.0
+108505002,Tramadol hydrochloride,040702040BBADAD,Zydol SR 150mg tablets,150.000000000,,0.1,15.0
+108505002,Tramadol hydrochloride,040702040BBAGAD,Zydol XL 150mg tablets,150.000000000,,0.1,15.0
+108505002,Tramadol hydrochloride,040702040BDAHAD,Zamadol 24hr 150mg modified-release tablets,150.000000000,,0.1,15.0
+108505002,Tramadol hydrochloride,040702040BEACAD,Dromadol SR 150mg tablets,150.000000000,,0.1,15.0
+108505002,Tramadol hydrochloride,040702040BEAEAD,Dromadol XL 150mg tablets,150.000000000,,0.1,15.0
+108505002,Tramadol hydrochloride,040702040BGABAD,Larapam SR 150mg tablets,150.000000000,,0.1,15.0
+108505002,Tramadol hydrochloride,040702040BHABAD,Mabron 150mg modified-release tablets (Morningside),150.000000000,,0.1,15.0
+108505002,Tramadol hydrochloride,040702040BHAEAD,Mabron 150mg modified-release tablets (Teva),150.000000000,,0.1,15.0
+108505002,Tramadol hydrochloride,040702040BKABAD,Tramulief SR 150mg tablets,150.000000000,,0.1,15.0
+108505002,Tramadol hydrochloride,040702040BLABAD,Zeridame SR 150mg tablets,150.000000000,,0.1,15.0
+108505002,Tramadol hydrochloride,040702040BNABAD,Marol 150mg modified-release tablets (Morningside),150.000000000,,0.1,15.0
+108505002,Tramadol hydrochloride,040702040BNAEAD,Marol 150mg modified-release tablets (Teva),150.000000000,,0.1,15.0
+108505002,Tramadol hydrochloride,040702040BQABAD,Oldaram 150mg modified-release tablets,150.000000000,,0.1,15.0
+108505002,Tramadol hydrochloride,040702040BRABAD,Aceon 150mg modified-release tablets,150.000000000,,0.1,15.0
+108505002,Tramadol hydrochloride,040702040BSABAD,Tilodol SR 150mg tablets,150.000000000,,0.1,15.0
+108505002,Tramadol hydrochloride,040702040BTABAD,Invodol SR 150mg tablets,150.000000000,,0.1,15.0
+108505002,Tramadol hydrochloride,040702040BUABAD,Maneo 150mg modified-release tablets,150.000000000,,0.1,15.0
+108505002,Tramadol hydrochloride,040702040BVAAAD,Zytram SR 150mg tablets,150.000000000,,0.1,15.0
+108505002,Tramadol hydrochloride,040702040AAAPAP,Tramadol 75mg modified-release tablets,75.000000000,,0.1,7.5
+108505002,Tramadol hydrochloride,040702040BEAAAP,Dromadol SR 75mg tablets,75.000000000,,0.1,7.5
+108505002,Tramadol hydrochloride,040702040BVABAP,Zytram SR 75mg tablets,75.000000000,,0.1,7.5
+108505002,Tramadol hydrochloride,040702040AAACAC,Tramadol 100mg modified-release tablets,100.000000000,,0.1,10.0
+108505002,Tramadol hydrochloride,040702040BBACAC,Zydol SR 100mg tablets,100.000000000,,0.1,10.0
+108505002,Tramadol hydrochloride,040702040BEABAC,Dromadol SR 100mg tablets,100.000000000,,0.1,10.0
+108505002,Tramadol hydrochloride,040702040BGAAAC,Larapam SR 100mg tablets,100.000000000,,0.1,10.0
+108505002,Tramadol hydrochloride,040702040BHAAAC,Mabron 100mg modified-release tablets (Morningside),100.000000000,,0.1,10.0
+108505002,Tramadol hydrochloride,040702040BHADAC,Mabron 100mg modified-release tablets (Teva),100.000000000,,0.1,10.0
+108505002,Tramadol hydrochloride,040702040BIAAAC,Tradorec XL 100mg tablets,100.000000000,,0.1,10.0
+108505002,Tramadol hydrochloride,040702040BKAAAC,Tramulief SR 100mg tablets,100.000000000,,0.1,10.0
+108505002,Tramadol hydrochloride,040702040BLAAAC,Zeridame SR 100mg tablets,100.000000000,,0.1,10.0
+108505002,Tramadol hydrochloride,040702040BMAAAC,Nobligan retard 100mg tablets,100.000000000,,0.1,10.0
+108505002,Tramadol hydrochloride,040702040BNAAAC,Marol 100mg modified-release tablets (Morningside),100.000000000,,0.1,10.0
+108505002,Tramadol hydrochloride,040702040BNAFAC,Marol 100mg modified-release tablets (Teva),100.000000000,,0.1,10.0
+108505002,Tramadol hydrochloride,040702040BQAAAC,Oldaram 100mg modified-release tablets,100.000000000,,0.1,10.0
+108505002,Tramadol hydrochloride,040702040BRAAAC,Aceon 100mg modified-release tablets,100.000000000,,0.1,10.0
+108505002,Tramadol hydrochloride,040702040BSAAAC,Tilodol SR 100mg tablets,100.000000000,,0.1,10.0
+108505002,Tramadol hydrochloride,040702040BTAAAC,Invodol SR 100mg tablets,100.000000000,,0.1,10.0
+108505002,Tramadol hydrochloride,040702040BUAAAC,Maneo 100mg modified-release tablets,100.000000000,,0.1,10.0
+108505002,Tramadol hydrochloride,040702040BVACAC,Zytram SR 100mg tablets,100.000000000,,0.1,10.0
+108505002,Tramadol hydrochloride,040702040BWAAAC,Brimisol PR 100mg tablets,100.000000000,,0.1,10.0
+108505002,Tramadol hydrochloride,040702040AAAHAH,Tramadol 100mg modified-release capsules,100.000000000,,0.1,10.0
+108505002,Tramadol hydrochloride,040702040BDACAH,Zamadol SR 100mg capsules,100.000000000,,0.1,10.0
+108505002,Tramadol hydrochloride,040702040BJABAH,Tramquel SR 100mg capsules,100.000000000,,0.1,10.0
+108505002,Tramadol hydrochloride,040702040BPABAH,Maxitram SR 100mg capsules,100.000000000,,0.1,10.0
+108505002,Tramadol hydrochloride,040702040AAAGAG,Tramadol 50mg modified-release capsules,50.000000000,,0.1,5.0
+108505002,Tramadol hydrochloride,040702040BDABAG,Zamadol SR 50mg capsules,50.000000000,,0.1,5.0
+108505002,Tramadol hydrochloride,040702040BJAAAG,Tramquel SR 50mg capsules,50.000000000,,0.1,5.0
+108505002,Tramadol hydrochloride,040702040BPAAAG,Maxitram SR 50mg capsules,50.000000000,,0.1,5.0
+108505002,Tramadol hydrochloride,040702040AAAIAI,Tramadol 150mg modified-release capsules,150.000000000,,0.1,15.0
+108505002,Tramadol hydrochloride,040702040BDADAI,Zamadol SR 150mg capsules,150.000000000,,0.1,15.0
+108505002,Tramadol hydrochloride,040702040BJACAI,Tramquel SR 150mg capsules,150.000000000,,0.1,15.0
+108505002,Tramadol hydrochloride,040702040BPACAI,Maxitram SR 150mg capsules,150.000000000,,0.1,15.0
+108505002,Tramadol hydrochloride,040702040AAAJAJ,Tramadol 200mg modified-release capsules,200.000000000,,0.1,20.0
+108505002,Tramadol hydrochloride,040702040BDAEAJ,Zamadol SR 200mg capsules,200.000000000,,0.1,20.0
+108505002,Tramadol hydrochloride,040702040BJADAJ,Tramquel SR 200mg capsules,200.000000000,,0.1,20.0
+108505002,Tramadol hydrochloride,040702040BPADAJ,Maxitram SR 200mg capsules,200.000000000,,0.1,20.0
+108505002,Tramadol hydrochloride,040702040AAAKAK,Tramadol 50mg effervescent powder sachets sugar free,50.000000000,,0.1,5.0
+108505002,Tramadol hydrochloride,040702040BCABAK,Tramake Insts 50mg sachets,50.000000000,,0.1,5.0
+108505002,Tramadol hydrochloride,040702040AAALAL,Tramadol 100mg effervescent powder sachets sugar free,100.000000000,,0.1,10.0
+108505002,Tramadol hydrochloride,040702040BCACAL,Tramake Insts 100mg sachets,100.000000000,,0.1,10.0
+108505002,Tramadol hydrochloride,040702040AAATAT,Tramadol 50mg orodispersible tablets sugar free,50.000000000,,0.1,5.0
+108505002,Tramadol hydrochloride,040702040BDAGAT,Zamadol Melt 50mg tablets,50.000000000,,0.1,5.0
+108505002,Tramadol hydrochloride,040702040AAAUAU,Tramadol 37.5mg / Paracetamol 325mg tablets,37.500000000,,0.1,3.75
+108505002,Tramadol hydrochloride,040702040BFAAAU,Tramacet 37.5mg/325mg tablets,37.500000000,,0.1,3.75
+108505002,Tramadol hydrochloride,040702040BYAAAU,Trapadex 37.5mg/325mg tablets,37.500000000,,0.1,3.75
+108505002,Tramadol hydrochloride,040702040AAAYAY,Tramadol 50mg modified-release tablets,50.000000000,,0.1,5.0
+108505002,Tramadol hydrochloride,040702040BBAKAY,Zydol SR 50mg tablets,50.000000000,,0.1,5.0
+108505002,Tramadol hydrochloride,040702040AABABA,Tramadol 37.5mg / Paracetamol 325mg efferv tab sugar free,37.500000000,,0.1,3.75
+108505002,Tramadol hydrochloride,040702040BFABBA,Tramacet 37.5mg/325mg effervescent tablets,37.500000000,,0.1,3.75
+108505002,Tramadol hydrochloride,040702040AABCBC,Tramadol 75mg / Paracetamol 650mg tablets,75.000000000,,0.1,7.5
+108505002,Tramadol hydrochloride,040702040AABDBD,Tramadol 75mg / Dexketoprofen 25mg tablets,75.000000000,,0.1,7.5
+108505002,Tramadol hydrochloride,040702040BXAABD,Skudexa 75mg/25mg tablets,75.000000000,,0.1,7.5
+108505002,Tramadol hydrochloride,040702040AAABAB,Tramadol 100mg/2ml solution for injection ampoules,50.000000000,1.000000000,0.2,20.0
+108505002,Tramadol hydrochloride,040702040BBABAB,Zydol 100mg/2ml solution for injection ampoules,50.000000000,1.000000000,0.2,20.0
+108505002,Tramadol hydrochloride,040702040BDAFAB,Zamadol 100mg/2ml solution for injection ampoules,50.000000000,1.000000000,0.2,20.0
+108505002,Tramadol hydrochloride,040702040AABBBB,Tramadol 100mg/ml oral drops,100.000000000,1.000000000,0.1,10.0
+108505002,Tramadol hydrochloride,040702040AAAZAZ,Tramadol 50mg/5ml oral suspension,10.000000000,1.000000000,0.1,1.0
+108505002,Tramadol hydrochloride,040702040AABEBE,Tramadol 50mg/5ml oral solution sugar free,10.000000000,1.000000000,0.1,1.0
+2878005,Pethidine hydrochloride,0407020V0AAACAC,Pethidine 50mg tablets,50.000000000,,0.1,5.0
+2878005,Pethidine hydrochloride,0407020V0AABFBF,Pethidine 50mg capsules,50.000000000,,0.1,5.0
+2878005,Pethidine hydrochloride,0407020V0AAAEAE,Pethidine 100mg/2ml solution for injection ampoules,50.000000000,1.000000000,0.24,24.0
+2878005,Pethidine hydrochloride,0407020V0AAAPAP,Pethidine 50mg/5ml solution for injection ampoules,10.000000000,1.000000000,0.24,12.0
+2878005,Pethidine hydrochloride,0407020V0AAALAL,Pethidine 100mg/10ml solution for injection ampoules,10.000000000,1.000000000,0.24,24.0
+2878005,Pethidine hydrochloride,0407020V0AAAAAA,Pethidine 50mg/1ml solution for injection ampoules,50.000000000,1.000000000,0.24,12.0
+2878005,Pethidine hydrochloride,0407020V0AAAIAI,Pethidine 100mg/2ml / Promethazine 50mg/2ml inj ampoules,50.000000000,1.000000000,0.24,24.0
+2878005,Pethidine hydrochloride,0407020V0BCAAAI,Pamergan P100 solution for injection 2ml ampoules,50.000000000,1.000000000,0.24,24.0
+2878005,Pethidine hydrochloride,0407020V0AABABA,Pethidine 10mg/5ml oral solution,2.000000000,1.000000000,0.1,0.2
+2878005,Pethidine hydrochloride,0407020V0AABCBC,Pethidine 30mg/5ml oral solution,6.000000000,1.000000000,0.1,0.6000000000000001
+2878005,Pethidine hydrochloride,0407020V0AABEBE,Pethidine 35mg/5ml oral solution,7.000000000,1.000000000,0.1,0.7000000000000001
+2878005,Pethidine hydrochloride,0407020V0AABBBB,Pethidine 40mg/5ml oral solution,8.000000000,1.000000000,0.1,0.8
+2878005,Pethidine hydrochloride,0407020V0AABDBD,Pethidine 45mg/5ml oral solution,9.000000000,1.000000000,0.1,0.9
+2878005,Pethidine hydrochloride,0407020V0AAATAT,Pethidine 50mg/5ml oral solution,10.000000000,1.000000000,0.1,1.0
+2878005,Pethidine hydrochloride,0407020V0AAARAR,Pethidine 25mg/5ml oral solution,5.000000000,1.000000000,0.1,0.5
+2878005,Pethidine hydrochloride,0407020V0AAAXAX,Pethidine 100mg/1ml solution for injection ampoules,100.000000000,1.000000000,0.24,24.0
+2878005,Pethidine hydrochloride,0407020V0AAAZAZ,Pethidine 10mg/1ml solution for injection ampoules,10.000000000,1.000000000,0.24,2.4
+21066009,Buprenorphine hydrochloride,0407020B0AAADAD,Buprenorphine 400microgram sublingual tablets sugar free,0.400000000,,60.0,24.0
+21066009,Buprenorphine hydrochloride,0407020B0BBADAD,Temgesic 400microgram sublingual tablets,0.400000000,,60.0,24.0
+21066009,Buprenorphine hydrochloride,0407020B0BFABAD,Tephine 400microgram sublingual tablets,0.400000000,,60.0,24.0
+21066009,Buprenorphine hydrochloride,0407020B0AAABAB,Buprenorphine 200microgram sublingual tablets sugar free,0.200000000,,60.0,12.0
+21066009,Buprenorphine hydrochloride,0407020B0BBAAAB,Temgesic 200microgram sublingual tablets,0.200000000,,60.0,12.0
+21066009,Buprenorphine hydrochloride,0407020B0BFAAAB,Tephine 200microgram sublingual tablets,0.200000000,,60.0,12.0
+21066009,Buprenorphine hydrochloride,0407020B0AAAAAA,Buprenorphine 300micrograms/1ml inj ampoules,0.300000000,1.000000000,100.0,30.0
+21066009,Buprenorphine hydrochloride,0407020B0BBABAA,Temgesic 300micrograms/1ml solution for injection ampoules,0.300000000,1.000000000,100.0,30.0
+60886004,Morphine sulfate,0407020Q0AACFCF,Morphine 15mg modified-release tablets,15.000000000,,1.0,15.0
+60886004,Morphine sulfate,0407020Q0BBALCF,MST Continus 15mg tablets,15.000000000,,1.0,15.0
+60886004,Morphine sulfate,0407020Q0AACGCG,Morphine 5mg modified-release tablets,5.000000000,,1.0,5.0
+60886004,Morphine sulfate,0407020Q0BBAKCG,MST Continus 5mg tablets,5.000000000,,1.0,5.0
+60886004,Morphine sulfate,0407020Q0AAAGAG,Morphine 200mg modified-release tablets,200.000000000,,1.0,200.0
+60886004,Morphine sulfate,0407020Q0BBAEAG,MST Continus 200mg tablets,200.000000000,,1.0,200.0
+60886004,Morphine sulfate,0407020Q0BMAEAG,Filnarine SR 200mg tablets,200.000000000,,1.0,200.0
+60886004,Morphine sulfate,0407020Q0AAAIAI,Morphine 60mg modified-release tablets,60.000000000,,1.0,60.0
+60886004,Morphine sulfate,0407020Q0BBACAI,MST Continus 60mg tablets,60.000000000,,1.0,60.0
+60886004,Morphine sulfate,0407020Q0BMACAI,Filnarine SR 60mg tablets,60.000000000,,1.0,60.0
+60886004,Morphine sulfate,0407020Q0BNACAI,Morphgesic SR 60mg tablets,60.000000000,,1.0,60.0
+60886004,Morphine sulfate,0407020Q0BPACAI,Rhotard Morphine SR 60mg tablets,60.000000000,,1.0,60.0
+60886004,Morphine sulfate,0407020Q0AAAHAH,Morphine 100mg modified-release tablets,100.000000000,,1.0,100.0
+60886004,Morphine sulfate,0407020Q0BBADAH,MST Continus 100mg tablets,100.000000000,,1.0,100.0
+60886004,Morphine sulfate,0407020Q0BMADAH,Filnarine SR 100mg tablets,100.000000000,,1.0,100.0
+60886004,Morphine sulfate,0407020Q0BNADAH,Morphgesic SR 100mg tablets,100.000000000,,1.0,100.0
+60886004,Morphine sulfate,0407020Q0BPADAH,Rhotard Morphine SR 100mg tablets,100.000000000,,1.0,100.0
+60886004,Morphine sulfate,0407020Q0AACDCD,Morphine 10mg tablets,10.000000000,,1.0,10.0
+60886004,Morphine sulfate,0407020Q0BHACCD,Sevredol 10mg tablets,10.000000000,,1.0,10.0
+60886004,Morphine sulfate,0407020Q0AAAKAK,Morphine 10mg modified-release tablets,10.000000000,,1.0,10.0
+60886004,Morphine sulfate,0407020Q0BBAAAK,MST Continus 10mg tablets,10.000000000,,1.0,10.0
+60886004,Morphine sulfate,0407020Q0BMAAAK,Filnarine SR 10mg tablets,10.000000000,,1.0,10.0
+60886004,Morphine sulfate,0407020Q0BNAAAK,Morphgesic SR 10mg tablets,10.000000000,,1.0,10.0
+60886004,Morphine sulfate,0407020Q0BPAAAK,Rhotard Morphine SR 10mg tablets,10.000000000,,1.0,10.0
+60886004,Morphine sulfate,0407020Q0AACECE,Morphine 20mg tablets,20.000000000,,1.0,20.0
+60886004,Morphine sulfate,0407020Q0BHADCE,Sevredol 20mg tablets,20.000000000,,1.0,20.0
+60886004,Morphine sulfate,0407020Q0AAALAL,Morphine 30mg modified-release tablets,30.000000000,,1.0,30.0
+60886004,Morphine sulfate,0407020Q0BBABAL,MST Continus 30mg tablets,30.000000000,,1.0,30.0
+60886004,Morphine sulfate,0407020Q0BMABAL,Filnarine SR 30mg tablets,30.000000000,,1.0,30.0
+60886004,Morphine sulfate,0407020Q0BNABAL,Morphgesic SR 30mg tablets,30.000000000,,1.0,30.0
+60886004,Morphine sulfate,0407020Q0BPABAL,Rhotard Morphine SR 30mg tablets,30.000000000,,1.0,30.0
+60886004,Morphine sulfate,0407020Q0AADRDR,Morphine 50mg tablets,50.000000000,,1.0,50.0
+60886004,Morphine sulfate,0407020Q0BHAFDR,Sevredol 50mg tablets,50.000000000,,1.0,50.0
+60886004,Morphine sulfate,0407020Q0AAEGEG,Morphine 30mg modified-release capsules,30.000000000,,1.0,30.0
+60886004,Morphine sulfate,0407020Q0BIAAEG,MXL 30mg capsules,30.000000000,,1.0,30.0
+60886004,Morphine sulfate,0407020Q0BKABEG,Zomorph 30mg modified-release capsules,30.000000000,,1.0,30.0
+60886004,Morphine sulfate,0407020Q0AAEFEF,Morphine 10mg modified-release capsules,10.000000000,,1.0,10.0
+60886004,Morphine sulfate,0407020Q0BKAAEF,Zomorph 10mg modified-release capsules,10.000000000,,1.0,10.0
+60886004,Morphine sulfate,0407020Q0AAEHEH,Morphine 60mg modified-release capsules,60.000000000,,1.0,60.0
+60886004,Morphine sulfate,0407020Q0BIABEH,MXL 60mg capsules,60.000000000,,1.0,60.0
+60886004,Morphine sulfate,0407020Q0BKACEH,Zomorph 60mg modified-release capsules,60.000000000,,1.0,60.0
+60886004,Morphine sulfate,0407020Q0AAEBEB,Morphine 100mg modified-release capsules,100.000000000,,1.0,100.0
+60886004,Morphine sulfate,0407020Q0BJACEB,Morcap SR 100mg capsules,100.000000000,,1.0,100.0
+60886004,Morphine sulfate,0407020Q0BKADEB,Zomorph 100mg modified-release capsules,100.000000000,,1.0,100.0
+60886004,Morphine sulfate,0407020Q0AADZDZ,Morphine 20mg modified-release capsules,20.000000000,,1.0,20.0
+60886004,Morphine sulfate,0407020Q0BJAADZ,Morcap SR 20mg capsules,20.000000000,,1.0,20.0
+60886004,Morphine sulfate,0407020Q0AADUDU,Morphine 90mg modified-release capsules,90.000000000,,1.0,90.0
+60886004,Morphine sulfate,0407020Q0BIACDU,MXL 90mg capsules,90.000000000,,1.0,90.0
+60886004,Morphine sulfate,0407020Q0AADWDW,Morphine 150mg modified-release capsules,150.000000000,,1.0,150.0
+60886004,Morphine sulfate,0407020Q0BIAEDW,MXL 150mg capsules,150.000000000,,1.0,150.0
+60886004,Morphine sulfate,0407020Q0AADVDV,Morphine 120mg modified-release capsules,120.000000000,,1.0,120.0
+60886004,Morphine sulfate,0407020Q0BIADDV,MXL 120mg capsules,120.000000000,,1.0,120.0
+60886004,Morphine sulfate,0407020Q0AAEAEA,Morphine 50mg modified-release capsules,50.000000000,,1.0,50.0
+60886004,Morphine sulfate,0407020Q0BJABEA,Morcap SR 50mg capsules,50.000000000,,1.0,50.0
+60886004,Morphine sulfate,0407020Q0AAEIEI,Morphine 200mg modified-release capsules,200.000000000,,1.0,200.0
+60886004,Morphine sulfate,0407020Q0BIAFEI,MXL 200mg capsules,200.000000000,,1.0,200.0
+60886004,Morphine sulfate,0407020Q0BKAEEI,Zomorph 200mg modified-release capsules,200.000000000,,1.0,200.0
+60886004,Morphine sulfate,0407020Q0AACQCQ,Morphine sulfate 10mg suppositories,10.000000000,,1.0,10.0
+60886004,Morphine sulfate,0407020Q0AAGDGD,Morphine sulfate 15mg suppositories,15.000000000,,1.0,15.0
+60886004,Morphine sulfate,0407020Q0AAGCGC,Morphine sulfate 30mg suppositories,30.000000000,,1.0,30.0
+60886004,Morphine sulfate,0407020Q0AADCDC,Morphine 60mg modified-release granules sachets sugar free,60.000000000,,1.0,60.0
+60886004,Morphine sulfate,0407020Q0BBAHDC,MST Continus suspension 60mg granules sachets,60.000000000,,1.0,60.0
+60886004,Morphine sulfate,0407020Q0AADDDD,Morphine 100mg modified-release granules sachets sugar free,100.000000000,,1.0,100.0
+60886004,Morphine sulfate,0407020Q0BBAIDD,MST Continus suspension 100mg granules sachets,100.000000000,,1.0,100.0
+60886004,Morphine sulfate,0407020Q0AADEDE,Morphine 200mg modified-release granules sachets sugar free,200.000000000,,1.0,200.0
+60886004,Morphine sulfate,0407020Q0BBAJDE,MST Continus suspension 200mg granules sachets,200.000000000,,1.0,200.0
+60886004,Morphine sulfate,0407020Q0AACVCV,Morphine 20mg modified-release granules sachets sugar free,20.000000000,,1.0,20.0
+60886004,Morphine sulfate,0407020Q0BBAFCV,MST Continus suspension 20mg granules sachets,20.000000000,,1.0,20.0
+60886004,Morphine sulfate,0407020Q0AACPCP,Morphine 30mg modified-release granules sachets sugar free,30.000000000,,1.0,30.0
+60886004,Morphine sulfate,0407020Q0BBAGCP,MST Continus suspension 30mg granules sachets,30.000000000,,1.0,30.0
+60886004,Morphine sulfate,0407020Q0AACRCR,Morphine sulfate 20mg suppositories,20.000000000,,1.0,20.0
+60886004,Morphine sulfate,0407020Q0AADXDX,Morphine 200mg capsules,200.000000000,,1.0,200.0
+60886004,Morphine sulfate,0407020Q0AADSDS,Morphine 30mg capsules,30.000000000,,1.0,30.0
+60886004,Morphine sulfate,0407020Q0AADTDT,Morphine 60mg capsules,60.000000000,,1.0,60.0
+60886004,Morphine sulfate,0407020Q0AABPBP,Morphine sulfate 100mg suppositories,100.000000000,,1.0,100.0
+60886004,Morphine sulfate,0407020Q0AAEEEE,Morphine sulfate 2.5mg suppositories,2.500000000,,1.0,2.5
+60886004,Morphine sulfate,0407020Q0AABVBV,Morphine sulfate 50mg suppositories,50.000000000,,1.0,50.0
+60886004,Morphine sulfate,0407020Q0AABJBJ,Morphine sulfate 5mg suppositories,5.000000000,,1.0,5.0
+60886004,Morphine sulfate,0407020Q0AABNBN,Morphine sulfate 60mg suppositories,60.000000000,,1.0,60.0
+60886004,Morphine sulfate,0407020Q0AAEPEP,Morphine sulfate 750mg suppositories,750.000000000,,1.0,750.0
+60886004,Morphine sulfate,0407020Q0AAGGGG,Morphine 1mg orodispersible tablets sugar free,1.000000000,,1.0,1.0
+60886004,Morphine sulfate,0407020Q0BQACGG,Actimorph 1mg orodispersible tablets,1.000000000,,1.0,1.0
+60886004,Morphine sulfate,0407020Q0AAGIGI,Morphine 30mg orodispersible tablets sugar free,30.000000000,,1.0,30.0
+60886004,Morphine sulfate,0407020Q0BQAEGI,Actimorph 30mg orodispersible tablets,30.000000000,,1.0,30.0
+60886004,Morphine sulfate,0407020Q0AAGEGE,Morphine 2.5mg orodispersible tablets sugar free,2.500000000,,1.0,2.5
+60886004,Morphine sulfate,0407020Q0BQAAGE,Actimorph 2.5mg orodispersible tablets,2.500000000,,1.0,2.5
+60886004,Morphine sulfate,0407020Q0AAGFGF,Morphine 10mg orodispersible tablets sugar free,10.000000000,,1.0,10.0
+60886004,Morphine sulfate,0407020Q0BQABGF,Actimorph 10mg orodispersible tablets,10.000000000,,1.0,10.0
+60886004,Morphine sulfate,0407020Q0AAGHGH,Morphine 20mg orodispersible tablets sugar free,20.000000000,,1.0,20.0
+60886004,Morphine sulfate,0407020Q0BQADGH,Actimorph 20mg orodispersible tablets,20.000000000,,1.0,20.0
+60886004,Morphine sulfate,0407020Q0AAGJGJ,Morphine 5mg orodispersible tablets sugar free,5.000000000,,1.0,5.0
+60886004,Morphine sulfate,0407020Q0BQAFGJ,Actimorph 5mg orodispersible tablets,5.000000000,,1.0,5.0
+60886004,Morphine sulfate,0407020Q0AACNCN,Morphine sulfate 10mg/5ml oral solution,2.000000000,1.000000000,1.0,2.0
+60886004,Morphine sulfate,0407020Q0BCAGCN,Oramorph 10mg/5ml oral solution,2.000000000,1.000000000,1.0,2.0
+60886004,Morphine sulfate,0407020Q0BHAGCN,Sevredol 10mg/5ml oral solution,2.000000000,1.000000000,1.0,2.0
+60886004,Morphine sulfate,0407020Q0AAGBGB,Morphine sulfate 10mg/5ml soln unit dose vials sugar free,2.000000000,1.000000000,1.0,2.0
+60886004,Morphine sulfate,0407020Q0BCAHGB,Oramorph 10mg/5ml oral solution unit dose vials,2.000000000,1.000000000,1.0,2.0
+60886004,Morphine sulfate,0407020Q0AAA6A6,Morphine sulfate 20mg/ml oral solution sugar free,20.000000000,1.000000000,1.0,20.0
+60886004,Morphine sulfate,0407020Q0BCABA6,Oramorph 20mg/ml concentrated oral solution,20.000000000,1.000000000,1.0,20.0
+60886004,Morphine sulfate,0407020Q0BHAHA6,Sevredol 20mg/ml concentrated oral solution,20.000000000,1.000000000,1.0,20.0
+60886004,Morphine sulfate,0407020Q0AACUCU,Morphine sulfate 100mg/5ml soln unit dose vials sugar free,20.000000000,1.000000000,1.0,20.0
+60886004,Morphine sulfate,0407020Q0BCAJCU,Oramorph 100mg/5ml oral solution unit dose vials,20.000000000,1.000000000,1.0,20.0
+60886004,Morphine sulfate,0407020Q0AACTCT,Morphine sulfate 30mg/5ml soln unit dose vials sugar free,6.000000000,1.000000000,1.0,6.0
+60886004,Morphine sulfate,0407020Q0BCAICT,Oramorph 30mg/5ml oral solution unit dose vials,6.000000000,1.000000000,1.0,6.0
+60886004,Morphine sulfate,0407020Q0AAACAC,Morphine sulfate 15mg/1ml solution for injection ampoules,15.000000000,1.000000000,2.0,30.0
+60886004,Morphine sulfate,0407020Q0AAADAD,Morphine sulfate 30mg/1ml solution for injection ampoules,30.000000000,1.000000000,2.0,60.0
+60886004,Morphine sulfate,0407020Q0AAABAB,Morphine sulfate 10mg/1ml solution for injection ampoules,10.000000000,1.000000000,2.0,20.0
+60886004,Morphine sulfate,0407020Q0AAAMAM,Morphine sulfate 60mg/2ml solution for injection ampoules,30.000000000,1.000000000,2.0,120.0
+60886004,Morphine sulfate,0407020Q0AAAFAF,Morphine sulfate 20mg/1ml solution for injection ampoules,20.000000000,1.000000000,2.0,40.0
+60886004,Morphine sulfate,0407020Q0AAFJFJ,Morphine sulfate 10mg/10ml inj pre-filled syringes,1.000000000,1.000000000,2.0,20.0
+60886004,Morphine sulfate,0407020Q0BEABFJ,Morphine sulfate 10mg/10ml inj Minijet pre-filled syringes,1.000000000,1.000000000,2.0,20.0
+60886004,Morphine sulfate,0407020Q0AAFCFC,Morphine sulfate 10mg/1ml inj pre-filled syringes,10.000000000,1.000000000,2.0,20.0
+60886004,Morphine sulfate,0407020Q0AAELEL,Morphine sulfate 100mg/50ml solution for infusion vials,2.000000000,1.000000000,2.0,200.0
+60886004,Morphine sulfate,0407020Q0AAENEN,Morphine sulfate 50mg/50ml solution for infusion vials,1.000000000,1.000000000,2.0,100.0
+60886004,Morphine sulfate,0407020Q0AAFAFA,Morphine sulfate 80mg/5ml oral solution,16.000000000,1.000000000,1.0,16.0
+60886004,Morphine sulfate,0407020Q0AAECEC,Morphine sulfate 75mg/5ml oral solution,15.000000000,1.000000000,1.0,15.0
+60886004,Morphine sulfate,0407020Q0AAESES,Morphine sulfate 60mg/5ml oral solution,12.000000000,1.000000000,1.0,12.0
+60886004,Morphine sulfate,0407020Q0AADNDN,Morphine sulfate 5mg/5ml oral solution,1.000000000,1.000000000,1.0,1.0
+60886004,Morphine sulfate,0407020Q0AADKDK,Morphine sulfate 50mg/5ml oral solution,10.000000000,1.000000000,1.0,10.0
+60886004,Morphine sulfate,0407020Q0AAFEFE,Morphine sulfate 40mg/5ml oral solution,8.000000000,1.000000000,1.0,8.0
+60886004,Morphine sulfate,0407020Q0AAFIFI,Morphine sulfate 3mg/5ml oral solution,0.600000000,1.000000000,1.0,0.6
+60886004,Morphine sulfate,0407020Q0AAETET,Morphine sulfate 30mg/5ml oral solution,6.000000000,1.000000000,1.0,6.0
+60886004,Morphine sulfate,0407020Q0AAFBFB,Morphine sulfate 3.35mg/5ml oral solution,0.670000000,1.000000000,1.0,0.67
+60886004,Morphine sulfate,0407020Q0AAFFFF,Morphine sulfate 2mg/5ml oral solution,0.400000000,1.000000000,1.0,0.4
+60886004,Morphine sulfate,0407020Q0AAFHFH,Morphine sulfate 1mg/5ml oral solution,0.200000000,1.000000000,1.0,0.2
+60886004,Morphine sulfate,0407020Q0AAERER,Morphine sulfate 1g/5ml oral solution,200.000000000,1.000000000,1.0,200.0
+60886004,Morphine sulfate,0407020Q0AAFGFG,Morphine sulfate 1.5mg/5ml oral solution,0.300000000,1.000000000,1.0,0.3
+60886004,Morphine sulfate,0407020Q0AADYDY,Morphine sulfate 20mg/5ml oral solution,4.000000000,1.000000000,1.0,4.0
+60886004,Morphine sulfate,0407020Q0AAFDFD,Morphine sulfate 500micrograms/5ml oral solution,0.100000000,1.000000000,1.0,0.1
+60886004,Morphine sulfate,0407020Q0AABCBC,Morphine sulfate 10mg/2ml solution for injection ampoules,5.000000000,1.000000000,2.0,20.0
+60886004,Morphine sulfate,0407020Q0AAAEAE,Morphine sulfate 2.5mg/5ml solution for injection ampoules,0.500000000,1.000000000,2.0,5.0
+60886004,Morphine sulfate,0407020Q0AAAAAA,Morphine sulfate 2mg/10ml solution for injection ampoules,0.200000000,1.000000000,2.0,4.0
+60886004,Morphine sulfate,0407020Q0AADIDI,Morphine sulfate 20mg/2ml solution for injection ampoules,10.000000000,1.000000000,2.0,40.0
+60886004,Morphine sulfate,0407020Q0AAA3A3,Morphine sulfate 2mg/5ml solution for injection ampoules,0.400000000,1.000000000,2.0,4.0
+60886004,Morphine sulfate,0407020Q0AAA5A5,Morphine sulfate 4mg/10ml solution for injection ampoules,0.400000000,1.000000000,2.0,8.0
+60886004,Morphine sulfate,0407020Q0AAA8A8,Morphine sulfate 5mg/10ml solution for injection ampoules,0.500000000,1.000000000,2.0,10.0
+60886004,Morphine sulfate,0407020Q0AAA2A2,Morphine sulfate 5mg/1ml solution for injection ampoules,5.000000000,1.000000000,2.0,10.0
+60886004,Morphine sulfate,0407020Q0AAFZFZ,Morphine sulfate 5mg/5ml solution for injection ampoules,1.000000000,1.000000000,2.0,10.0
+60886004,Morphine sulfate,0407020Q0AAFPFP,Morphine sulfate 30mg/30ml solution for infusion vials,1.000000000,1.000000000,2.0,60.0
+60886004,Morphine sulfate,0407020Q0AAFRFR,Morphine sulfate 100mg/100ml infusion bags,1.000000000,1.000000000,2.0,200.0
+60886004,Morphine sulfate,0407020Q0AAFKFK,Morphine sulfate 300mg/10ml solution for injection ampoules,30.000000000,1.000000000,2.0,600.0
+60886004,Morphine sulfate,0407020Q0AAFTFT,Morphine sulfate 100mg/50ml inf pre-filled syringes,2.000000000,1.000000000,2.0,200.0
+60886004,Morphine sulfate,0407020Q0AAGAGA,Morphine sulfate 10mg/10ml solution for injection ampoules,1.000000000,1.000000000,2.0,20.0
+60886004,Morphine sulfate,0407020Q0AAFVFV,Morphine sulfate 100mg/10ml solution for injection ampoules,10.000000000,1.000000000,2.0,200.0
+60886004,Morphine sulfate,0407020Q0AAFWFW,Morphine sulfate 50mg/5ml solution for injection ampoules,10.000000000,1.000000000,2.0,100.0
+60886004,Morphine sulfate,0407020Q0AAA4A4,Morphine sulfate 1mg/1ml solution for injection ampoules,1.000000000,1.000000000,2.0,2.0
+23883005,Methadone hydrochloride,0407020M0AAAEAE,Methadone 5mg tablets,5.000000000,,3.0,15.0
+23883005,Methadone hydrochloride,0407020M0BBAAAE,Physeptone 5mg tablets,5.000000000,,3.0,15.0
+23883005,Methadone hydrochloride,0407020M0AAAXAX,Methadone 60mg impregnated cigarettes,60.000000000,,3.0,180.0
+23883005,Methadone hydrochloride,0407020M0AAAJAJ,Methadone 30mg impregnated cigarettes,30.000000000,,3.0,90.0
+23883005,Methadone hydrochloride,0407020M0AAA2A2,Methadone 100mg impregnated cigarettes,100.000000000,,3.0,300.0
+23883005,Methadone hydrochloride,0407020M0AABIBI,Methadone 30mg capsules,30.000000000,,3.0,90.0
+23883005,Methadone hydrochloride,0407020M0AABMBM,Methadone 100mg capsules,100.000000000,,3.0,300.0
+23883005,Methadone hydrochloride,0407020M0AABLBL,Methadone 50mg capsules,50.000000000,,3.0,150.0
+23883005,Methadone hydrochloride,0407020M0AAAKAK,Methadone 10mg capsules,10.000000000,,3.0,30.0
+23883005,Methadone hydrochloride,0407020M0AABTBT,Methadone 40mg capsules,40.000000000,,3.0,120.0
+23883005,Methadone hydrochloride,0407020M0AAAGAG,Methadone 40mg impregnated cigarettes,40.000000000,,3.0,120.0
+23883005,Methadone hydrochloride,0407020M0AABJBJ,Methadone 30mg tablets,30.000000000,,3.0,90.0
+23883005,Methadone hydrochloride,0407020M0AABUBU,Methadone 5mg capsules,5.000000000,,3.0,15.0
+23883005,Methadone hydrochloride,0407020M0AABVBV,Methadone 50mg tablets,50.000000000,,3.0,150.0
+23883005,Methadone hydrochloride,0407020M0AAAVAV,Methadone 10mg/1ml solution for injection ampoules,10.000000000,1.000000000,3.0,30.0
+23883005,Methadone hydrochloride,0407020M0BBABAV,Physeptone 10mg/1ml solution for injection ampoules,10.000000000,1.000000000,3.0,30.0
+23883005,Methadone hydrochloride,0407020M0BCAAAV,Synastone 10mg/1ml solution for injection ampoules,10.000000000,1.000000000,3.0,30.0
+23883005,Methadone hydrochloride,0407020M0AAA3A3,Methadone 20mg/2ml solution for injection ampoules,10.000000000,1.000000000,3.0,60.0
+23883005,Methadone hydrochloride,0407020M0BBACA3,Physeptone 20mg/2ml solution for injection ampoules,10.000000000,1.000000000,3.0,60.0
+23883005,Methadone hydrochloride,0407020M0AAATAT,Methadone 35mg/3.5ml solution for injection ampoules,10.000000000,1.000000000,3.0,105.0
+23883005,Methadone hydrochloride,0407020M0BBADAT,Physeptone 35mg/3.5ml solution for injection ampoules,10.000000000,1.000000000,3.0,105.0
+23883005,Methadone hydrochloride,0407020M0AAANAN,Methadone 50mg/5ml solution for injection ampoules,10.000000000,1.000000000,3.0,150.0
+23883005,Methadone hydrochloride,0407020M0BBAEAN,Physeptone 50mg/5ml solution for injection ampoules,10.000000000,1.000000000,3.0,150.0
+23883005,Methadone hydrochloride,0407020M0BCADAN,Synastone 50mg/5ml solution for injection ampoules,10.000000000,1.000000000,3.0,150.0
+23883005,Methadone hydrochloride,0309010S0AAAAAA,Methadone 2mg/5ml linctus,0.400000000,1.000000000,3.0,1.2000000000000002
+23883005,Methadone hydrochloride,0407020M0AAACAC,Methadone 50mg/1ml solution for injection ampoules,50.000000000,1.000000000,3.0,150.0
+23883005,Methadone hydrochloride,0407020M0BBAIAC,Physeptone 50mg/1ml solution for injection ampoules,50.000000000,1.000000000,3.0,150.0
+23883005,Methadone hydrochloride,0407020M0BCABAC,Synastone 50mg/1ml solution for injection ampoules,50.000000000,1.000000000,3.0,150.0
+23883005,Methadone hydrochloride,0407020M0AAA6A6,Methadone 50mg/2ml solution for injection ampoules,25.000000000,1.000000000,3.0,150.0
+23883005,Methadone hydrochloride,0407020M0BBAHA6,Physeptone 50mg/2ml solution for injection ampoules,25.000000000,1.000000000,3.0,150.0
+23883005,Methadone hydrochloride,0407020M0BCACA6,Synastone 50mg/2ml solution for injection ampoules,25.000000000,1.000000000,3.0,150.0
+23883005,Methadone hydrochloride,0407020M0AABHBH,Methadone 35mg/2ml solution for injection ampoules,17.500000000,1.000000000,3.0,105.0
+23883005,Methadone hydrochloride,0407020M0AAAWAW,Methadone 35mg/1ml solution for injection ampoules,35.000000000,1.000000000,3.0,105.0
+23883005,Methadone hydrochloride,0407020M0AAA8A8,Methadone 20mg/1ml solution for injection ampoules,20.000000000,1.000000000,3.0,60.0
+23883005,Methadone hydrochloride,0407020M0AABKBK,Methadone 40mg/1ml solution for injection ampoules,40.000000000,1.000000000,3.0,120.0
+29190006,Fentanyl citrate,0407020A0AAAPAP,Fentanyl 1.6mg lozenges,1.600000000,,130.0,208.0
+29190006,Fentanyl citrate,0407020A0BCAFAP,Actiq 1.6mg lozenges with integral oromucosal applicator,1.600000000,,130.0,208.0
+29190006,Fentanyl citrate,0407020A0BWAFAP,Cynril 1.6mg lozenges with integral oromucosal applicator,1.600000000,,130.0,208.0
+29190006,Fentanyl citrate,0407020A0AAANAN,Fentanyl 1.2mg lozenges,1.200000000,,130.0,156.0
+29190006,Fentanyl citrate,0407020A0BCAEAN,Actiq 1.2mg lozenges with integral oromucosal applicator,1.200000000,,130.0,156.0
+29190006,Fentanyl citrate,0407020A0BWAEAN,Cynril 1.2mg lozenges with integral oromucosal applicator,1.200000000,,130.0,156.0
+29190006,Fentanyl citrate,0407020A0AAALAL,Fentanyl 800microgram lozenges,0.800000000,,130.0,104.0
+29190006,Fentanyl citrate,0407020A0BCADAL,Actiq 800microgram loz with integral oromucosal applicator,0.800000000,,130.0,104.0
+29190006,Fentanyl citrate,0407020A0BWADAL,Cynril 800microgram loz with integral oromucosal applicator,0.800000000,,130.0,104.0
+29190006,Fentanyl citrate,0407020A0AAAKAK,Fentanyl 600microgram lozenges,0.600000000,,130.0,78.0
+29190006,Fentanyl citrate,0407020A0BCACAK,Actiq 600microgram loz with integral oromucosal applicator,0.600000000,,130.0,78.0
+29190006,Fentanyl citrate,0407020A0BWACAK,Cynril 600microgram loz with integral oromucosal applicator,0.600000000,,130.0,78.0
+29190006,Fentanyl citrate,0407020A0AAAJAJ,Fentanyl 400microgram lozenges,0.400000000,,130.0,52.0
+29190006,Fentanyl citrate,0407020A0BCABAJ,Actiq 400microgram loz with integral oromucosal applicator,0.400000000,,130.0,52.0
+29190006,Fentanyl citrate,0407020A0BWABAJ,Cynril 400microgram loz with integral oromucosal applicator,0.400000000,,130.0,52.0
+29190006,Fentanyl citrate,0407020A0AAAIAI,Fentanyl 200microgram lozenges,0.200000000,,130.0,26.0
+29190006,Fentanyl citrate,0407020A0BCAAAI,Actiq 200microgram loz with integral oromucosal applicator,0.200000000,,130.0,26.0
+29190006,Fentanyl citrate,0407020A0BWAAAI,Cynril 200microgram loz with integral oromucosal applicator,0.200000000,,130.0,26.0
+29190006,Fentanyl citrate,0407020A0AAAWAW,Fentanyl 100microgram sublingual tablets sugar free,0.100000000,,130.0,13.0
+29190006,Fentanyl citrate,0407020A0BJAAAW,Abstral 100microgram sublingual tablets,0.100000000,,130.0,13.0
+29190006,Fentanyl citrate,0407020A0BXAAAW,Fenhuma 100microgram sublingual tablets,0.100000000,,130.0,13.0
+29190006,Fentanyl citrate,0407020A0AABBBB,Fentanyl 800microgram sublingual tablets sugar free,0.800000000,,130.0,104.0
+29190006,Fentanyl citrate,0407020A0BJAFBB,Abstral 800microgram sublingual tablets,0.800000000,,130.0,104.0
+29190006,Fentanyl citrate,0407020A0BTAEBB,Recivit 800microgram sublingual tablets,0.800000000,,130.0,104.0
+29190006,Fentanyl citrate,0407020A0BXABBB,Fenhuma 800microgram sublingual tablets,0.800000000,,130.0,104.0
+29190006,Fentanyl citrate,0407020A0BYASBB,Iremia 800microgram sublingual tablets,0.800000000,,130.0,104.0
+29190006,Fentanyl citrate,0407020A0AABABA,Fentanyl 600microgram sublingual tablets sugar free,0.600000000,,130.0,78.0
+29190006,Fentanyl citrate,0407020A0BJAEBA,Abstral 600microgram sublingual tablets,0.600000000,,130.0,78.0
+29190006,Fentanyl citrate,0407020A0BXACBA,Fenhuma 600microgram sublingual tablets,0.600000000,,130.0,78.0
+29190006,Fentanyl citrate,0407020A0AAAZAZ,Fentanyl 400microgram sublingual tablets sugar free,0.400000000,,130.0,52.0
+29190006,Fentanyl citrate,0407020A0BJADAZ,Abstral 400microgram sublingual tablets,0.400000000,,130.0,52.0
+29190006,Fentanyl citrate,0407020A0BTABAZ,Recivit 400microgram sublingual tablets,0.400000000,,130.0,52.0
+29190006,Fentanyl citrate,0407020A0BXADAZ,Fenhuma 400microgram sublingual tablets,0.400000000,,130.0,52.0
+29190006,Fentanyl citrate,0407020A0BYAPAZ,Iremia 400microgram sublingual tablets,0.400000000,,130.0,52.0
+29190006,Fentanyl citrate,0407020A0AAAYAY,Fentanyl 300microgram sublingual tablets sugar free,0.300000000,,130.0,39.0
+29190006,Fentanyl citrate,0407020A0BJACAY,Abstral 300microgram sublingual tablets,0.300000000,,130.0,39.0
+29190006,Fentanyl citrate,0407020A0BXAEAY,Fenhuma 300microgram sublingual tablets,0.300000000,,130.0,39.0
+29190006,Fentanyl citrate,0407020A0AAAXAX,Fentanyl 200microgram sublingual tablets sugar free,0.200000000,,130.0,26.0
+29190006,Fentanyl citrate,0407020A0BJABAX,Abstral 200microgram sublingual tablets,0.200000000,,130.0,26.0
+29190006,Fentanyl citrate,0407020A0BXAFAX,Fenhuma 200microgram sublingual tablets,0.200000000,,130.0,26.0
+29190006,Fentanyl citrate,0407020A0AABCBC,Fentanyl 100microgram buccal tablets sugar free,0.100000000,,130.0,13.0
+29190006,Fentanyl citrate,0407020A0BKAABC,Effentora 100microgram buccal tablets,0.100000000,,130.0,13.0
+29190006,Fentanyl citrate,0407020A0AABDBD,Fentanyl 200microgram buccal tablets sugar free,0.200000000,,130.0,26.0
+29190006,Fentanyl citrate,0407020A0BKABBD,Effentora 200microgram buccal tablets,0.200000000,,130.0,26.0
+29190006,Fentanyl citrate,0407020A0AABEBE,Fentanyl 400microgram buccal tablets sugar free,0.400000000,,130.0,52.0
+29190006,Fentanyl citrate,0407020A0BKACBE,Effentora 400microgram buccal tablets,0.400000000,,130.0,52.0
+29190006,Fentanyl citrate,0407020A0AABFBF,Fentanyl 600microgram buccal tablets sugar free,0.600000000,,130.0,78.0
+29190006,Fentanyl citrate,0407020A0BKADBF,Effentora 600microgram buccal tablets,0.600000000,,130.0,78.0
+29190006,Fentanyl citrate,0407020A0AABGBG,Fentanyl 800microgram buccal tablets sugar free,0.800000000,,130.0,104.0
+29190006,Fentanyl citrate,0407020A0BKAEBG,Effentora 800microgram buccal tablets,0.800000000,,130.0,104.0
+29190006,Fentanyl citrate,0407020A0AABXBX,Fentanyl 133microgram sublingual tablets sugar free,0.133000000,,130.0,17.29
+29190006,Fentanyl citrate,0407020A0BTAABX,Recivit 133microgram sublingual tablets,0.133000000,,130.0,17.29
+29190006,Fentanyl citrate,0407020A0BYAMBX,Iremia 133microgram sublingual tablets,0.133000000,,130.0,17.29
+29190006,Fentanyl citrate,0407020A0AABZBZ,Fentanyl 267microgram sublingual tablets sugar free,0.267000000,,130.0,34.71
+29190006,Fentanyl citrate,0407020A0BTADBZ,Recivit 267microgram sublingual tablets,0.267000000,,130.0,34.71
+29190006,Fentanyl citrate,0407020A0BYANBZ,Iremia 267microgram sublingual tablets,0.267000000,,130.0,34.71
+29190006,Fentanyl citrate,0407020A0AABYBY,Fentanyl 533microgram sublingual tablets sugar free,0.533000000,,130.0,69.29
+29190006,Fentanyl citrate,0407020A0BTACBY,Recivit 533microgram sublingual tablets,0.533000000,,130.0,69.29
+29190006,Fentanyl citrate,0407020A0BYAQBY,Iremia 533microgram sublingual tablets,0.533000000,,130.0,69.29
+29190006,Fentanyl citrate,0407020A0AACHCH,Fentanyl 67microgram sublingual tablets sugar free,0.067000000,,130.0,8.71
+29190006,Fentanyl citrate,0407020A0BYARCH,Iremia 67microgram sublingual tablets,0.067000000,,130.0,8.71
+29190006,Fentanyl citrate,1501043F0AAAAAA,Fentanyl 100micrograms/2ml solution for injection ampoules,0.050000000,1.000000000,150.0,15.0
+29190006,Fentanyl citrate,1501043F0BBAAAA,Sublimaze 100micrograms/2ml solution for injection ampoules,0.050000000,1.000000000,150.0,15.0
+29190006,Fentanyl citrate,1501043F0AAABAB,Fentanyl 500micrograms/10ml solution for injection ampoules,0.050000000,1.000000000,150.0,75.0
+29190006,Fentanyl citrate,1501043F0BBABAB,Sublimaze 500micrograms/10ml solution for injection ampoules,0.050000000,1.000000000,150.0,75.0
+29190006,Fentanyl citrate,0407020A0AABHBH,Fentanyl 50micrograms/dose nasal spray,0.050000000,,160.0,8.0
+29190006,Fentanyl citrate,0407020A0BNAIBH,Instanyl 50micrograms/dose nasal spray,0.050000000,,160.0,8.0
+29190006,Fentanyl citrate,0407020A0AABJBJ,Fentanyl 100micrograms/dose nasal spray,0.100000000,,160.0,16.0
+29190006,Fentanyl citrate,0407020A0BNAHBJ,Instanyl 100micrograms/dose nasal spray,0.100000000,,160.0,16.0
+29190006,Fentanyl citrate,0407020A0BPAABJ,PecFent 100micrograms/dose nasal spray,0.100000000,,160.0,16.0
+29190006,Fentanyl citrate,0407020A0AABLBL,Fentanyl 200micrograms/dose nasal spray,0.200000000,,160.0,32.0
+29190006,Fentanyl citrate,0407020A0BNAGBL,Instanyl 200micrograms/dose nasal spray,0.200000000,,160.0,32.0
+29190006,Fentanyl citrate,0407020A0AABPBP,Fentanyl 400micrograms/dose nasal spray,0.400000000,,160.0,64.0
+29190006,Fentanyl citrate,0407020A0BPABBP,PecFent 400micrograms/dose nasal spray,0.400000000,,160.0,64.0
+322554009,Dipipanone hydrochloride,0407020H0AAABAB,Dipipanone 10mg / Cyclizine 30mg tablets,10.000000000,,0.5,5.0
+322554009,Dipipanone hydrochloride,0407020H0BBAAAB,Diconal tablets,10.000000000,,0.5,5.0
+322508000,Dextromoramide tartrate,0407020D0AAAEAE,Dextromoramide 10mg tablets,10.000000000,,2.0,20.0
+322508000,Dextromoramide tartrate,0407020D0BBABAE,Palfium 10mg tablets,10.000000000,,2.0,20.0
+322508000,Dextromoramide tartrate,0407020D0AAADAD,Dextromoramide 5mg tablets,5.000000000,,2.0,10.0
+322508000,Dextromoramide tartrate,0407020D0BBAAAD,Palfium 5mg tablets,5.000000000,,2.0,10.0
+91013003,Pentazocine hydrochloride,0407020T0AAABAB,Pentazocine 25mg tablets,25.000000000,,0.37,9.25
+91013003,Pentazocine hydrochloride,0407020T0BBABAB,Fortral 25mg tablets,25.000000000,,0.37,9.25
+91013003,Pentazocine hydrochloride,0407020T0AAAAAA,Pentazocine 50mg capsules,50.000000000,,0.37,18.5
+6837005,Dextropropoxyphene napsylate,0407020E0AAAAAA,Dextropropoxyphene 60mg capsules,60.000000000,,0.1,6.0
+6837005,Dextropropoxyphene napsylate,0407020E0BBAAAA,Doloxene 100mg capsules,60.000000000,,0.1,6.0
+111123003,Nalbuphine hydrochloride,0407020Y0AAAAAA,Nalbuphine 10mg/1ml solution for injection ampoules,10.000000000,1.000000000,1.0,10.0
+111123003,Nalbuphine hydrochloride,0407020Y0BBAAAA,Nubain 10mg/1ml solution for injection ampoules,10.000000000,1.000000000,1.0,10.0
+111123003,Nalbuphine hydrochloride,0407020Y0AAADAD,Nalbuphine 20mg/2ml solution for injection ampoules,10.000000000,1.000000000,1.0,20.0
+111123003,Nalbuphine hydrochloride,0407020Y0BBABAD,Nubain 20mg/2ml solution for injection ampoules,10.000000000,1.000000000,1.0,20.0
+71533000,Pentazocine lactate,0407020U0AAABAB,Pentazocine 50mg suppositories,50.000000000,,0.37,18.5
+71533000,Pentazocine lactate,0407020U0BBACAB,Fortral 50mg suppositories,50.000000000,,0.37,18.5
+71533000,Pentazocine lactate,0407020U0AAAAAA,Pentazocine 30mg/1ml solution for injection ampoules,30.000000000,1.000000000,0.37,11.1
+71533000,Pentazocine lactate,0407020U0BBAAAA,Fortral 30mg/1ml solution for injection ampoules,30.000000000,1.000000000,0.37,11.1
+71533000,Pentazocine lactate,0407020U0AAACAC,Pentazocine 60mg/2ml solution for injection ampoules,30.000000000,1.000000000,0.37,22.2
+71533000,Pentazocine lactate,0407020U0BBABAC,Fortral 60mg/2ml solution for injection ampoules,30.000000000,1.000000000,0.37,22.2
+96184001,Alfentanil hydrochloride,1501043A0AAABAB,Alfentanil 1mg/2ml solution for injection ampoules,0.500000000,1.000000000,30.0,30.0
+96184001,Alfentanil hydrochloride,1501043A0BBAAAB,Rapifen 1mg/2ml solution for injection ampoules,0.500000000,1.000000000,30.0,30.0
+96184001,Alfentanil hydrochloride,1501043A0AAACAC,Alfentanil 5mg/10ml solution for injection ampoules,0.500000000,1.000000000,30.0,150.0
+96184001,Alfentanil hydrochloride,1501043A0BBABAC,Rapifen 5mg/10ml solution for injection ampoules,0.500000000,1.000000000,30.0,150.0
+96184001,Alfentanil hydrochloride,1501043A0AAADAD,Alfentanil 5mg/1ml solution for injection ampoules,5.000000000,1.000000000,30.0,150.0
+96184001,Alfentanil hydrochloride,1501043A0BBADAD,Rapifen Intensive Care 5mg/1ml inj ampoules,5.000000000,1.000000000,30.0,150.0
+96184001,Alfentanil hydrochloride,1501043A0AAAEAE,Alfentanil 0.1% nasal spray,1.000000000,1.000000000,30.0,30.0
+96184001,Alfentanil hydrochloride,1501043A0AAAFAF,Alfentanil 500micrograms/1ml solution for injection ampoules,0.500000000,1.000000000,30.0,15.0
+96184001,Alfentanil hydrochloride,1501043A0AAAHAH,Alfentanil 25mg/50ml solution for injection vials,0.500000000,1.000000000,30.0,750.0
+17632411000001105,Oxycodone pectinate,0407020Z0AAAAAA,Oxycodone 30mg suppositories,30.000000000,,1.5,45.0
+17632411000001105,Oxycodone pectinate,0407020Z0BBAAAA,Proladone 30mg suppositories,30.000000000,,1.5,45.0
+441757005,Tapentadol,0407020AGAAACAC,Tapentadol 50mg modified-release tablets,50.000000000,,0.4,20.0
+441757005,Tapentadol,0407020AGBBACAC,Palexia SR 50mg tablets,50.000000000,,0.4,20.0
+441757005,Tapentadol,0407020AGBCABAC,Ationdo SR 50mg tablets,50.000000000,,0.4,20.0
+441757005,Tapentadol,0407020AGBDAAAC,Tadomon 50mg prolonged-release tablets,50.000000000,,0.4,20.0
+441757005,Tapentadol,0407020AGBEAAAC,Lupaxis 50mg prolonged-release tablets,50.000000000,,0.4,20.0
+441757005,Tapentadol,0407020AGBFAAAC,Vecicom 50mg prolonged-release tablets,50.000000000,,0.4,20.0
+441757005,Tapentadol,0407020AGAAADAD,Tapentadol 100mg modified-release tablets,100.000000000,,0.4,40.0
+441757005,Tapentadol,0407020AGBBADAD,Palexia SR 100mg tablets,100.000000000,,0.4,40.0
+441757005,Tapentadol,0407020AGBCACAD,Ationdo SR 100mg tablets,100.000000000,,0.4,40.0
+441757005,Tapentadol,0407020AGBDABAD,Tadomon 100mg prolonged-release tablets,100.000000000,,0.4,40.0
+441757005,Tapentadol,0407020AGBEABAD,Lupaxis 100mg prolonged-release tablets,100.000000000,,0.4,40.0
+441757005,Tapentadol,0407020AGBFABAD,Vecicom 100mg prolonged-release tablets,100.000000000,,0.4,40.0
+441757005,Tapentadol,0407020AGAAAEAE,Tapentadol 150mg modified-release tablets,150.000000000,,0.4,60.0
+441757005,Tapentadol,0407020AGBBAEAE,Palexia SR 150mg tablets,150.000000000,,0.4,60.0
+441757005,Tapentadol,0407020AGBCADAE,Ationdo SR 150mg tablets,150.000000000,,0.4,60.0
+441757005,Tapentadol,0407020AGBDACAE,Tadomon 150mg prolonged-release tablets,150.000000000,,0.4,60.0
+441757005,Tapentadol,0407020AGBEACAE,Lupaxis 150mg prolonged-release tablets,150.000000000,,0.4,60.0
+441757005,Tapentadol,0407020AGBFACAE,Vecicom 150mg prolonged-release tablets,150.000000000,,0.4,60.0
+441757005,Tapentadol,0407020AGAAAFAF,Tapentadol 200mg modified-release tablets,200.000000000,,0.4,80.0
+441757005,Tapentadol,0407020AGBBAFAF,Palexia SR 200mg tablets,200.000000000,,0.4,80.0
+441757005,Tapentadol,0407020AGBCAEAF,Ationdo SR 200mg tablets,200.000000000,,0.4,80.0
+441757005,Tapentadol,0407020AGBDADAF,Tadomon 200mg prolonged-release tablets,200.000000000,,0.4,80.0
+441757005,Tapentadol,0407020AGBEADAF,Lupaxis 200mg prolonged-release tablets,200.000000000,,0.4,80.0
+441757005,Tapentadol,0407020AGBFADAF,Vecicom 200mg prolonged-release tablets,200.000000000,,0.4,80.0
+441757005,Tapentadol,0407020AGAAAGAG,Tapentadol 250mg modified-release tablets,250.000000000,,0.4,100.0
+441757005,Tapentadol,0407020AGBBAGAG,Palexia SR 250mg tablets,250.000000000,,0.4,100.0
+441757005,Tapentadol,0407020AGBCAFAG,Ationdo SR 250mg tablets,250.000000000,,0.4,100.0
+441757005,Tapentadol,0407020AGBDAEAG,Tadomon 250mg prolonged-release tablets,250.000000000,,0.4,100.0
+441757005,Tapentadol,0407020AGBEAEAG,Lupaxis 250mg prolonged-release tablets,250.000000000,,0.4,100.0
+441757005,Tapentadol,0407020AGBFAEAG,Vecicom 250mg prolonged-release tablets,250.000000000,,0.4,100.0
+441757005,Tapentadol,0407020AGAAAIAI,Tapentadol 25mg modified-release tablets,25.000000000,,0.4,10.0
+441757005,Tapentadol,0407020AGBCAAAI,Ationdo SR 25mg tablets,25.000000000,,0.4,10.0
+441757005,Tapentadol,0407020AGBDAFAI,Tadomon 25mg prolonged-release tablets,25.000000000,,0.4,10.0
+442699004,Tapentadol hydrochloride,0407020AGAAAAAA,Tapentadol 50mg tablets,50.000000000,,0.4,20.0
+442699004,Tapentadol hydrochloride,0407020AGBBAAAA,Palexia 50mg tablets,50.000000000,,0.4,20.0
+442699004,Tapentadol hydrochloride,0407020AGAAABAB,Tapentadol 75mg tablets,75.000000000,,0.4,30.0
+442699004,Tapentadol hydrochloride,0407020AGBBABAB,Palexia 75mg tablets,75.000000000,,0.4,30.0
+442699004,Tapentadol hydrochloride,0407020AGAAAHAH,Tapentadol 20mg/ml oral solution sugar free,20.000000000,1.000000000,0.4,8.0
+442699004,Tapentadol hydrochloride,0407020AGBBAHAH,Palexia 20mg/ml oral solution,20.000000000,1.000000000,0.4,8.0
+40755011000001109,Tapentadol phosphate,0407020AGAAAJAJ,Tapentadol 50mg modified-release capsules,50.000000000,,0.4,20.0
+40755011000001109,Tapentadol phosphate,0407020AGBGAAAJ,Tapimio 50mg modified-release capsules,50.000000000,,0.4,20.0
+40755011000001109,Tapentadol phosphate,0407020AGAAAKAK,Tapentadol 100mg modified-release capsules,100.000000000,,0.4,40.0
+40755011000001109,Tapentadol phosphate,0407020AGBGABAK,Tapimio 100mg modified-release capsules,100.000000000,,0.4,40.0
+40755011000001109,Tapentadol phosphate,0407020AGAAALAL,Tapentadol 150mg modified-release capsules,150.000000000,,0.4,60.0
+40755011000001109,Tapentadol phosphate,0407020AGBGACAL,Tapimio 150mg modified-release capsules,150.000000000,,0.4,60.0
+40755011000001109,Tapentadol phosphate,0407020AGAAAMAM,Tapentadol 200mg modified-release capsules,200.000000000,,0.4,80.0
+40755011000001109,Tapentadol phosphate,0407020AGBGADAM,Tapimio 200mg modified-release capsules,200.000000000,,0.4,80.0
+40755011000001109,Tapentadol phosphate,0407020AGAAANAN,Tapentadol 250mg modified-release capsules,250.000000000,,0.4,100.0
+40755011000001109,Tapentadol phosphate,0407020AGBGAEAN,Tapimio 250mg modified-release capsules,250.000000000,,0.4,100.0
+387173000,Buprenorphine,0407020B0AAAEAE,Buprenorphine 35micrograms/hour transdermal patches,0.035000000,,100.0,336.00000000000006
+387173000,Buprenorphine,0407020B0BDAAAE,Transtec 35micrograms/hour transdermal patches,0.035000000,,100.0,336.00000000000006
+387173000,Buprenorphine,0407020B0BGAAAE,Hapoctasin 35micrograms/hour transdermal patches,0.035000000,,100.0,336.00000000000006
+387173000,Buprenorphine,0407020B0BIAAAE,Bupeaze 35micrograms/hour transdermal patches,0.035000000,,100.0,336.00000000000006
+387173000,Buprenorphine,0407020B0BJAAAE,Prenotrix 35micrograms/hour transdermal patches,0.035000000,,100.0,336.00000000000006
+387173000,Buprenorphine,0407020B0BNAAAE,Buplast 35micrograms/hour transdermal patches,0.035000000,,100.0,336.00000000000006
+387173000,Buprenorphine,0407020B0BPAAAE,Relevtec 35micrograms/hour transdermal patches,0.035000000,,100.0,336.00000000000006
+387173000,Buprenorphine,0407020B0BSAAAE,Turgeon 35micrograms/hour transdermal patches,0.035000000,,100.0,336.00000000000006
+387173000,Buprenorphine,0407020B0BTAAAE,Carlosafine 35micrograms/hour transdermal patches,0.035000000,,100.0,336.00000000000006
+387173000,Buprenorphine,0407020B0AAAFAF,Buprenorphine 52.5micrograms/hour transdermal patches,0.052500000,,100.0,504.0
+387173000,Buprenorphine,0407020B0BDABAF,Transtec 52.5micrograms/hour transdermal patches,0.052500000,,100.0,504.0
+387173000,Buprenorphine,0407020B0BGABAF,Hapoctasin 52.5micrograms/hour transdermal patches,0.052500000,,100.0,504.0
+387173000,Buprenorphine,0407020B0BIABAF,Bupeaze 52.5micrograms/hour transdermal patches,0.052500000,,100.0,504.0
+387173000,Buprenorphine,0407020B0BJABAF,Prenotrix 52.5micrograms/hour transdermal patches,0.052500000,,100.0,504.0
+387173000,Buprenorphine,0407020B0BNABAF,Buplast 52.5micrograms/hour transdermal patches,0.052500000,,100.0,504.0
+387173000,Buprenorphine,0407020B0BPABAF,Relevtec 52.5micrograms/hour transdermal patches,0.052500000,,100.0,504.0
+387173000,Buprenorphine,0407020B0BSABAF,Turgeon 52.5micrograms/hour transdermal patches,0.052500000,,100.0,504.0
+387173000,Buprenorphine,0407020B0BTABAF,Carlosafine 52.5micrograms/hour transdermal patches,0.052500000,,100.0,504.0
+387173000,Buprenorphine,0407020B0AAAGAG,Buprenorphine 70micrograms/hour transdermal patches,0.070000000,,100.0,672.0000000000001
+387173000,Buprenorphine,0407020B0BDACAG,Transtec 70micrograms/hour transdermal patches,0.070000000,,100.0,672.0000000000001
+387173000,Buprenorphine,0407020B0BGACAG,Hapoctasin 70micrograms/hour transdermal patches,0.070000000,,100.0,672.0000000000001
+387173000,Buprenorphine,0407020B0BIACAG,Bupeaze 70micrograms/hour transdermal patches,0.070000000,,100.0,672.0000000000001
+387173000,Buprenorphine,0407020B0BJACAG,Prenotrix 70micrograms/hour transdermal patches,0.070000000,,100.0,672.0000000000001
+387173000,Buprenorphine,0407020B0BNACAG,Buplast 70micrograms/hour transdermal patches,0.070000000,,100.0,672.0000000000001
+387173000,Buprenorphine,0407020B0BPACAG,Relevtec 70micrograms/hour transdermal patches,0.070000000,,100.0,672.0000000000001
+387173000,Buprenorphine,0407020B0BSACAG,Turgeon 70micrograms/hour transdermal patches,0.070000000,,100.0,672.0000000000001
+387173000,Buprenorphine,0407020B0BTACAG,Carlosafine 70micrograms/hour transdermal patches,0.070000000,,100.0,672.0000000000001
+387173000,Buprenorphine,0407020B0AAAHAH,Buprenorphine 5micrograms/hour transdermal patches,0.005000000,,100.0,84.0
+387173000,Buprenorphine,0407020B0BEAAAH,BuTrans 5micrograms/hour transdermal patches,0.005000000,,100.0,84.0
+387173000,Buprenorphine,0407020B0BHAAAH,Butec 5micrograms/hour transdermal patches,0.005000000,,100.0,84.0
+387173000,Buprenorphine,0407020B0BKAAAH,Reletrans 5micrograms/hour transdermal patches,0.005000000,,100.0,84.0
+387173000,Buprenorphine,0407020B0BLAAAH,Panitaz 5micrograms/hour transdermal patches,0.005000000,,100.0,84.0
+387173000,Buprenorphine,0407020B0BMAAAH,Sevodyne 5micrograms/hour transdermal patches,0.005000000,,100.0,84.0
+387173000,Buprenorphine,0407020B0BQAAAH,Bupramyl 5micrograms/hour transdermal patches,0.005000000,,100.0,84.0
+387173000,Buprenorphine,0407020B0BRAAAH,Busiete 5micrograms/hour transdermal patches,0.005000000,,100.0,84.0
+387173000,Buprenorphine,0407020B0BUAAAH,Bunov 5micrograms/hour transdermal patches,0.005000000,,100.0,84.0
+387173000,Buprenorphine,0407020B0BVAAAH,Rebrikel 5micrograms/hour transdermal patches,0.005000000,,100.0,84.0
+387173000,Buprenorphine,0407020B0AAAIAI,Buprenorphine 10micrograms/hour transdermal patches,0.010000000,,100.0,168.0
+387173000,Buprenorphine,0407020B0BEABAI,BuTrans 10micrograms/hour transdermal patches,0.010000000,,100.0,168.0
+387173000,Buprenorphine,0407020B0BHABAI,Butec 10micrograms/hour transdermal patches,0.010000000,,100.0,168.0
+387173000,Buprenorphine,0407020B0BKABAI,Reletrans 10micrograms/hour transdermal patches,0.010000000,,100.0,168.0
+387173000,Buprenorphine,0407020B0BLABAI,Panitaz 10micrograms/hour transdermal patches,0.010000000,,100.0,168.0
+387173000,Buprenorphine,0407020B0BMABAI,Sevodyne 10micrograms/hour transdermal patches,0.010000000,,100.0,168.0
+387173000,Buprenorphine,0407020B0BQABAI,Bupramyl 10micrograms/hour transdermal patches,0.010000000,,100.0,168.0
+387173000,Buprenorphine,0407020B0BRABAI,Busiete 10micrograms/hour transdermal patches,0.010000000,,100.0,168.0
+387173000,Buprenorphine,0407020B0BUABAI,Bunov 10micrograms/hour transdermal patches,0.010000000,,100.0,168.0
+387173000,Buprenorphine,0407020B0BVABAI,Rebrikel 10micrograms/hour transdermal patches,0.010000000,,100.0,168.0
+387173000,Buprenorphine,0407020B0AAAJAJ,Buprenorphine 20micrograms/hour transdermal patches,0.020000000,,100.0,336.0
+387173000,Buprenorphine,0407020B0BEACAJ,BuTrans 20micrograms/hour transdermal patches,0.020000000,,100.0,336.0
+387173000,Buprenorphine,0407020B0BHACAJ,Butec 20micrograms/hour transdermal patches,0.020000000,,100.0,336.0
+387173000,Buprenorphine,0407020B0BKADAJ,Reletrans 20micrograms/hour transdermal patches,0.020000000,,100.0,336.0
+387173000,Buprenorphine,0407020B0BLACAJ,Panitaz 20micrograms/hour transdermal patches,0.020000000,,100.0,336.0
+387173000,Buprenorphine,0407020B0BMACAJ,Sevodyne 20micrograms/hour transdermal patches,0.020000000,,100.0,336.0
+387173000,Buprenorphine,0407020B0BQACAJ,Bupramyl 20micrograms/hour transdermal patches,0.020000000,,100.0,336.0
+387173000,Buprenorphine,0407020B0BRACAJ,Busiete 20micrograms/hour transdermal patches,0.020000000,,100.0,336.0
+387173000,Buprenorphine,0407020B0BUACAJ,Bunov 20micrograms/hour transdermal patches,0.020000000,,100.0,336.0
+387173000,Buprenorphine,0407020B0BVACAJ,Rebrikel 20micrograms/hour transdermal patches,0.020000000,,100.0,336.0
+387173000,Buprenorphine,0407020B0AAAKAK,Buprenorphine 15micrograms/hour transdermal patches,0.015000000,,100.0,252.0
+387173000,Buprenorphine,0407020B0BEADAK,BuTrans 15micrograms/hour transdermal patches,0.015000000,,100.0,252.0
+387173000,Buprenorphine,0407020B0BHADAK,Butec 15micrograms/hour transdermal patches,0.015000000,,100.0,252.0
+387173000,Buprenorphine,0407020B0BKACAK,Reletrans 15micrograms/hour transdermal patches,0.015000000,,100.0,252.0
+387173000,Buprenorphine,0407020B0BMADAK,Sevodyne 15micrograms/hour transdermal patches,0.015000000,,100.0,252.0
+387173000,Buprenorphine,0407020B0AAALAL,Buprenorphine 25micrograms/hour transdermal patches,0.025000000,,100.0,2.5
+387173000,Buprenorphine,0407020B0BKAEAL,Reletrans 25microgram/hour transdermal patches,0.025000000,,100.0,2.5
+387173000,Buprenorphine,0407020B0AAAMAM,Buprenorphine 30micrograms/hour transdermal patches,0.030000000,,100.0,3.0
+387173000,Buprenorphine,0407020B0BKAFAM,Reletrans 30micrograms/hour transdermal patches,0.030000000,,100.0,3.0
+387173000,Buprenorphine,0407020B0AAANAN,Buprenorphine 40micrograms/hour transdermal patches,0.040000000,,100.0,4.0
+387173000,Buprenorphine,0407020B0BKAGAN,Reletrans 40micrograms/hour transdermal patches,0.040000000,,100.0,4.0
+396019002,Diamorphine hydrochloride,0407020K0AACBCB,Diamorphine 10mg tablets,10.000000000,,1.0,10.0
+396019002,Diamorphine hydrochloride,0407020K0AAAAAA,Diamorphine 5mg powder for solution for injection ampoules,5.000000000,,3.3,16.5
+396019002,Diamorphine hydrochloride,0407020K0AAABAB,Diamorphine 10mg powder for solution for injection ampoules,10.000000000,,3.3,33.0
+396019002,Diamorphine hydrochloride,0407020K0AAAEAE,Diamorphine 30mg powder for solution for injection ampoules,30.000000000,,3.3,99.0
+396019002,Diamorphine hydrochloride,0407020K0AAAFAF,Diamorphine 100mg powder for solution for injection ampoules,100.000000000,,3.3,330.0
+396019002,Diamorphine hydrochloride,0407020K0AAAGAG,Diamorphine 500mg powder for solution for injection ampoules,500.000000000,,3.3,1650.0
+396019002,Diamorphine hydrochloride,0407020K0AADCDC,Diamorphine 40mg impregnated cigarettes,40.000000000,,1.0,40.0
+396019002,Diamorphine hydrochloride,0407020K0AAEUEU,Diamorphine 20mg impregnated cigarettes,20.000000000,,1.0,20.0
+396019002,Diamorphine hydrochloride,0407020K0AACGCG,Diamorphine 60mg impregnated cigarettes,60.000000000,,1.0,60.0
+396019002,Diamorphine hydrochloride,0407020K0AAEVEV,Diamorphine 120mg impregnated cigarettes,120.000000000,,1.0,120.0
+396019002,Diamorphine hydrochloride,0407020K0AABCBC,Diamorphine 100mg impregnated cigarettes,100.000000000,,1.0,100.0
+396019002,Diamorphine hydrochloride,0407020K0AABFBF,Diamorphine 30mg impregnated cigarettes,30.000000000,,1.0,30.0
+396019002,Diamorphine hydrochloride,0407020K0AADLDL,Diamorphine 50mg impregnated cigarettes,50.000000000,,1.0,50.0
+396019002,Diamorphine hydrochloride,0407020K0AACZCZ,Diamorphine 100mg capsules,100.000000000,,1.0,100.0
+396019002,Diamorphine hydrochloride,0407020K0AAACAC,Diamorphine 15mg powder for solution for injection ampoules,15.000000000,,3.3,49.5
+396019002,Diamorphine hydrochloride,0407020K0AACUCU,Diamorphine 5mg suppositories,5.000000000,,1.0,5.0
+396019002,Diamorphine hydrochloride,0407020K0AAEFEF,Diamorphine 5mg powder for solution for injection vials,5.000000000,,3.3,16.5
+396019002,Diamorphine hydrochloride,0407020K0AAEGEG,Diamorphine 10mg powder for solution for injection vials,10.000000000,,3.3,33.0
+396019002,Diamorphine hydrochloride,0407020K0AAEMEM,Diamorphine 30mg powder for solution for injection vials,30.000000000,,3.3,99.0
+396019002,Diamorphine hydrochloride,0407020K0AAEHEH,Diamorphine 100mg powder for solution for injection vials,100.000000000,,3.3,330.0
+396019002,Diamorphine hydrochloride,0407020K0AAEIEI,Diamorphine 500mg powder for solution for injection vials,500.000000000,,3.3,1650.0
+396019002,Diamorphine hydrochloride,0407020K0AAFQFQ,Diamorphine 500mg oral powder sachets,500.000000000,,1.0,500.0
+396019002,Diamorphine hydrochloride,0309010N0AAAIAI,Diamorphine 1.25mg/5ml oral solution,0.250000000,1.000000000,1.0,0.25
+396019002,Diamorphine hydrochloride,0407020K0AADXDX,Diamorphine 100mg/5ml oral solution,20.000000000,1.000000000,1.0,20.0
+396019002,Diamorphine hydrochloride,0407020K0AADTDT,Diamorphine 15mg/5ml oral solution,3.000000000,1.000000000,1.0,3.0
+396019002,Diamorphine hydrochloride,0407020K0AADVDV,Diamorphine 180mg/5ml oral solution,36.000000000,1.000000000,1.0,36.0
+396019002,Diamorphine hydrochloride,0309010N0AAAHAH,Diamorphine 2.5mg/5ml oral solution,0.500000000,1.000000000,1.0,0.5
+396019002,Diamorphine hydrochloride,0407020K0AAEQEQ,Diamorphine 200mg/5ml oral solution,40.000000000,1.000000000,1.0,40.0
+396019002,Diamorphine hydrochloride,0407020K0AADFDF,Diamorphine 20mg/5ml oral solution,4.000000000,1.000000000,1.0,4.0
+396019002,Diamorphine hydrochloride,0407020K0AADWDW,Diamorphine 240mg/5ml oral solution,48.000000000,1.000000000,1.0,48.0
+396019002,Diamorphine hydrochloride,0407020K0AADJDJ,Diamorphine 25mg/5ml oral solution,5.000000000,1.000000000,1.0,5.0
+396019002,Diamorphine hydrochloride,0309010N0AAAKAK,Diamorphine 2mg/5ml oral solution,0.400000000,1.000000000,1.0,0.4
+396019002,Diamorphine hydrochloride,0407020K0AAEAEA,Diamorphine 30mg/5ml oral solution,6.000000000,1.000000000,1.0,6.0
+396019002,Diamorphine hydrochloride,0309010N0AAAJAJ,Diamorphine 3mg/5ml oral solution,0.600000000,1.000000000,1.0,0.6
+396019002,Diamorphine hydrochloride,0407020K0AADSDS,Diamorphine 40mg/5ml oral solution,8.000000000,1.000000000,1.0,8.0
+396019002,Diamorphine hydrochloride,0407020K0AADRDR,Diamorphine 45mg/5ml oral solution,9.000000000,1.000000000,1.0,9.0
+396019002,Diamorphine hydrochloride,0407020K0AADGDG,Diamorphine 50mg/5ml oral solution,10.000000000,1.000000000,1.0,10.0
+396019002,Diamorphine hydrochloride,0407020K0AADQDQ,Diamorphine 6mg/5ml oral solution,1.200000000,1.000000000,1.0,1.2
+396019002,Diamorphine hydrochloride,0407020K0AADKDK,Diamorphine 5mg/5ml oral solution,1.000000000,1.000000000,1.0,1.0
+396019002,Diamorphine hydrochloride,0407020K0AADIDI,Diamorphine 10mg/5ml oral solution,2.000000000,1.000000000,1.0,2.0
+396019002,Diamorphine hydrochloride,0407020K0AAFCFC,Diamorphine 400mg/5ml oral solution,80.000000000,1.000000000,1.0,80.0
+396019002,Diamorphine hydrochloride,0407020K0AAFBFB,Diamorphine 390mg/5ml oral solution,78.000000000,1.000000000,1.0,78.0
+396019002,Diamorphine hydrochloride,0407020K0AAFAFA,Diamorphine 380mg/5ml oral solution,76.000000000,1.000000000,1.0,76.0
+396019002,Diamorphine hydrochloride,0407020K0AAEZEZ,Diamorphine 370mg/5ml oral solution,74.000000000,1.000000000,1.0,74.0
+396019002,Diamorphine hydrochloride,0407020K0AAEYEY,Diamorphine 360mg/5ml oral solution,72.000000000,1.000000000,1.0,72.0
+396019002,Diamorphine hydrochloride,0407020K0AAEXEX,Diamorphine 350mg/5ml oral solution,70.000000000,1.000000000,1.0,70.0
+396019002,Diamorphine hydrochloride,0407020K0AAEWEW,Diamorphine 340mg/5ml oral solution,68.000000000,1.000000000,1.0,68.0
+396019002,Diamorphine hydrochloride,0407020K0AAFDFD,Diamorphine 410mg/5ml oral solution,82.000000000,1.000000000,1.0,82.0
+396019002,Diamorphine hydrochloride,0407020K0AAFEFE,Diamorphine 320mg/5ml oral solution,64.000000000,1.000000000,1.0,64.0
+396019002,Diamorphine hydrochloride,0407020K0AAFFFF,Diamorphine 250mg/5ml oral solution,50.000000000,1.000000000,1.0,50.0
+396019002,Diamorphine hydrochloride,0407020K0AAFGFG,Diamorphine 260mg/5ml oral solution,52.000000000,1.000000000,1.0,52.0
+396019002,Diamorphine hydrochloride,0407020K0AAFHFH,Diamorphine 270mg/5ml oral solution,54.000000000,1.000000000,1.0,54.0
+396019002,Diamorphine hydrochloride,0407020K0AAFIFI,Diamorphine 280mg/5ml oral solution,56.000000000,1.000000000,1.0,56.0
+396019002,Diamorphine hydrochloride,0407020K0AAFJFJ,Diamorphine 290mg/5ml oral solution,58.000000000,1.000000000,1.0,58.0
+396019002,Diamorphine hydrochloride,0407020K0AAFKFK,Diamorphine 300mg/5ml oral solution,60.000000000,1.000000000,1.0,60.0
+396019002,Diamorphine hydrochloride,0407020K0AAFLFL,Diamorphine 310mg/5ml oral solution,62.000000000,1.000000000,1.0,62.0
+396019002,Diamorphine hydrochloride,0407020K0AAFMFM,Diamorphine 330mg/5ml oral solution,66.000000000,1.000000000,1.0,66.0
+396019002,Diamorphine hydrochloride,0407020K0AAFNFN,Diamorphine 130mg/5ml oral solution,26.000000000,1.000000000,1.0,26.0
+387485001,Hydromorphone hydrochloride,040702050AAAEAE,Hydromorphone 1.3mg capsules,1.300000000,,5.0,6.5
+387485001,Hydromorphone hydrochloride,040702050BBAAAE,Palladone 1.3mg capsules,1.300000000,,5.0,6.5
+387485001,Hydromorphone hydrochloride,040702050AAADAD,Hydromorphone 2.6mg capsules,2.600000000,,5.0,13.0
+387485001,Hydromorphone hydrochloride,040702050BBABAD,Palladone 2.6mg capsules,2.600000000,,5.0,13.0
+387485001,Hydromorphone hydrochloride,040702050AAAGAG,Hydromorphone 4mg modified-release capsules,4.000000000,,5.0,20.0
+387485001,Hydromorphone hydrochloride,040702050BBADAG,Palladone SR 4mg capsules,4.000000000,,5.0,20.0
+387485001,Hydromorphone hydrochloride,040702050AAAFAF,Hydromorphone 2mg modified-release capsules,2.000000000,,5.0,10.0
+387485001,Hydromorphone hydrochloride,040702050BBACAF,Palladone SR 2mg capsules,2.000000000,,5.0,10.0
+387485001,Hydromorphone hydrochloride,040702050AAACAC,Hydromorphone 8mg modified-release capsules,8.000000000,,5.0,40.0
+387485001,Hydromorphone hydrochloride,040702050BBAEAC,Palladone SR 8mg capsules,8.000000000,,5.0,40.0
+387485001,Hydromorphone hydrochloride,040702050AAAAAA,Hydromorphone 16mg modified-release capsules,16.000000000,,5.0,80.0
+387485001,Hydromorphone hydrochloride,040702050BBAFAA,Palladone SR 16mg capsules,16.000000000,,5.0,80.0
+387485001,Hydromorphone hydrochloride,040702050AAABAB,Hydromorphone 24mg modified-release capsules,24.000000000,,5.0,120.0
+387485001,Hydromorphone hydrochloride,040702050BBAGAB,Palladone SR 24mg capsules,24.000000000,,5.0,120.0
+387485001,Hydromorphone hydrochloride,040702050AAAPAP,Hydromorphone 50mg/1ml solution for injection ampoules,50.000000000,1.000000000,12.5,625.0
+387485001,Hydromorphone hydrochloride,040702050BBAKAP,Palladone 50mg/1ml solution for injection ampoules,50.000000000,1.000000000,12.5,625.0
+387485001,Hydromorphone hydrochloride,040702050AAANAN,Hydromorphone 10mg/1ml solution for injection ampoules,10.000000000,1.000000000,12.5,125.0
+387485001,Hydromorphone hydrochloride,040702050BBAJAN,Palladone 10mg/1ml solution for injection ampoules,10.000000000,1.000000000,12.5,125.0
+387485001,Hydromorphone hydrochloride,040702050AAAMAM,Hydromorphone 20mg/1ml solution for injection ampoules,20.000000000,1.000000000,12.5,250.0
+387485001,Hydromorphone hydrochloride,040702050BBAIAM,Palladone 20mg/1ml solution for injection ampoules,20.000000000,1.000000000,12.5,250.0
+387485001,Hydromorphone hydrochloride,040702050AAAKAK,Hydromorphone 5mg/5ml oral solution,1.000000000,1.000000000,5.0,5.0
+387485001,Hydromorphone hydrochloride,040702050AAALAL,Hydromorphone 2mg/1ml solution for injection ampoules,2.000000000,1.000000000,12.5,25.0
+387485001,Hydromorphone hydrochloride,040702050BBAHAL,Palladone 2mg/1ml solution for injection ampoules,2.000000000,1.000000000,12.5,25.0
+387024006,Oxycodone hydrochloride,0407020ADAAACAC,Oxycodone 5mg capsules,5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020ADBBACAC,OxyNorm 5mg capsules,5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020ADBHAAAC,Lynlor 5mg capsules,5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020ADBJAAAC,Shortec 5mg capsules,5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020ADAAAFAF,Oxycodone 10mg modified-release tablets,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADBCAAAF,OxyContin 10mg modified-release tablets,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADBDABAF,Carexil 10mg modified-release tablets,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADBEABAF,Longtec 10mg modified-release tablets,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADBFABAF,Oxylan 10mg prolonged-release tablets (G.L. Pharma UK Ltd),10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADBFAGAF,Oxylan 10mg modified-release tablets (Actavis),10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADBGAAAF,Candox 10mg modified-release tablets,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADBIADAF,Dolocodon PR 10mg tablets,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADBKABAF,Reltebon 10mg modified-release tablets,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADBLAFAF,Oxeltra 10mg modified-release tablets,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADBMABAF,Abtard 10mg modified-release tablets,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADBNADAF,Zomestine 10mg modified-release tablets,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADBPABAF,Leveraxo 10mg modified-release tablets,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADBQAAAF,Onexila XL 10mg tablets,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADBRABAF,Renocontin 10mg modified-release tablets,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADBSABAF,Oxypro 10mg modified-release tablets,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADBTABAF,Ixyldone 10mg modified-release tablets,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADAAADAD,Oxycodone 10mg capsules,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADBBADAD,OxyNorm 10mg capsules,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADBHABAD,Lynlor 10mg capsules,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADBJABAD,Shortec 10mg capsules,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADAAAEAE,Oxycodone 20mg capsules,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020ADBBAEAE,OxyNorm 20mg capsules,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020ADBHACAE,Lynlor 20mg capsules,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020ADBJACAE,Shortec 20mg capsules,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020ADAAAGAG,Oxycodone 20mg modified-release tablets,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020ADBCABAG,OxyContin 20mg modified-release tablets,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020ADBDACAG,Carexil 20mg modified-release tablets,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020ADBEACAG,Longtec 20mg modified-release tablets,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020ADBFACAG,Oxylan 20mg prolonged-release tablets (G.L. Pharma UK Ltd),20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020ADBFAHAG,Oxylan 20mg modified-release tablets (Actavis),20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020ADBGABAG,Candox 20mg modified-release tablets,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020ADBIAAAG,Dolocodon PR 20mg tablets,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020ADBKACAG,Reltebon 20mg modified-release tablets,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020ADBLAHAG,Oxeltra 20mg modified-release tablets,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020ADBMADAG,Abtard 20mg modified-release tablets,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020ADBNAEAG,Zomestine 20mg modified-release tablets,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020ADBPACAG,Leveraxo 20mg modified-release tablets,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020ADBQABAG,Onexila XL 20mg tablets,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020ADBRADAG,Renocontin 20mg modified-release tablets,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020ADBSADAG,Oxypro 20mg modified-release tablets,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020ADBTADAG,Ixyldone 20mg modified-release tablets,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020ADAAAHAH,Oxycodone 40mg modified-release tablets,40.000000000,,1.5,60.0
+387024006,Oxycodone hydrochloride,0407020ADBCACAH,OxyContin 40mg modified-release tablets,40.000000000,,1.5,60.0
+387024006,Oxycodone hydrochloride,0407020ADBDADAH,Carexil 40mg modified-release tablets,40.000000000,,1.5,60.0
+387024006,Oxycodone hydrochloride,0407020ADBEADAH,Longtec 40mg modified-release tablets,40.000000000,,1.5,60.0
+387024006,Oxycodone hydrochloride,0407020ADBFADAH,Oxylan 40mg prolonged-release tablets (G.L. Pharma UK Ltd),40.000000000,,1.5,60.0
+387024006,Oxycodone hydrochloride,0407020ADBFAIAH,Oxylan 40mg modified-release tablets (Actavis),40.000000000,,1.5,60.0
+387024006,Oxycodone hydrochloride,0407020ADBGADAH,Candox 40mg modified-release tablets,40.000000000,,1.5,60.0
+387024006,Oxycodone hydrochloride,0407020ADBIABAH,Dolocodon PR 40mg tablets,40.000000000,,1.5,60.0
+387024006,Oxycodone hydrochloride,0407020ADBKADAH,Reltebon 40mg modified-release tablets,40.000000000,,1.5,60.0
+387024006,Oxycodone hydrochloride,0407020ADBLAEAH,Oxeltra 40mg modified-release tablets,40.000000000,,1.5,60.0
+387024006,Oxycodone hydrochloride,0407020ADBMAEAH,Abtard 40mg modified-release tablets,40.000000000,,1.5,60.0
+387024006,Oxycodone hydrochloride,0407020ADBNABAH,Zomestine 40mg modified-release tablets,40.000000000,,1.5,60.0
+387024006,Oxycodone hydrochloride,0407020ADBPAEAH,Leveraxo 40mg modified-release tablets,40.000000000,,1.5,60.0
+387024006,Oxycodone hydrochloride,0407020ADBQACAH,Onexila XL 40mg tablets,40.000000000,,1.5,60.0
+387024006,Oxycodone hydrochloride,0407020ADBRAFAH,Renocontin 40mg modified-release tablets,40.000000000,,1.5,60.0
+387024006,Oxycodone hydrochloride,0407020ADBSAFAH,Oxypro 40mg modified-release tablets,40.000000000,,1.5,60.0
+387024006,Oxycodone hydrochloride,0407020ADBTAFAH,Ixyldone 40mg modified-release tablets,40.000000000,,1.5,60.0
+387024006,Oxycodone hydrochloride,0407020ADAAAIAI,Oxycodone 80mg modified-release tablets,80.000000000,,1.5,120.0
+387024006,Oxycodone hydrochloride,0407020ADBCADAI,OxyContin 80mg modified-release tablets,80.000000000,,1.5,120.0
+387024006,Oxycodone hydrochloride,0407020ADBDAEAI,Carexil 80mg modified-release tablets,80.000000000,,1.5,120.0
+387024006,Oxycodone hydrochloride,0407020ADBEAEAI,Longtec 80mg modified-release tablets,80.000000000,,1.5,120.0
+387024006,Oxycodone hydrochloride,0407020ADBFAEAI,Oxylan 80mg prolonged-release tablets (G.L. Pharma UK Ltd),80.000000000,,1.5,120.0
+387024006,Oxycodone hydrochloride,0407020ADBFAJAI,Oxylan 80mg modified-release tablets (Actavis),80.000000000,,1.5,120.0
+387024006,Oxycodone hydrochloride,0407020ADBGAEAI,Candox 80mg modified-release tablets,80.000000000,,1.5,120.0
+387024006,Oxycodone hydrochloride,0407020ADBKAEAI,Reltebon 80mg modified-release tablets,80.000000000,,1.5,120.0
+387024006,Oxycodone hydrochloride,0407020ADBLABAI,Oxeltra 80mg modified-release tablets,80.000000000,,1.5,120.0
+387024006,Oxycodone hydrochloride,0407020ADBMAHAI,Abtard 80mg modified-release tablets,80.000000000,,1.5,120.0
+387024006,Oxycodone hydrochloride,0407020ADBNAAAI,Zomestine 80mg modified-release tablets,80.000000000,,1.5,120.0
+387024006,Oxycodone hydrochloride,0407020ADBPAGAI,Leveraxo 80mg modified-release tablets,80.000000000,,1.5,120.0
+387024006,Oxycodone hydrochloride,0407020ADBQADAI,Onexila XL 80mg tablets,80.000000000,,1.5,120.0
+387024006,Oxycodone hydrochloride,0407020ADBSAHAI,Oxypro 80mg modified-release tablets,80.000000000,,1.5,120.0
+387024006,Oxycodone hydrochloride,0407020ADBTAHAI,Ixyldone 80mg modified-release tablets,80.000000000,,1.5,120.0
+387024006,Oxycodone hydrochloride,0407020ADAAAKAK,Oxycodone 5mg modified-release tablets,5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020ADBCAEAK,OxyContin 5mg modified-release tablets,5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020ADBDAAAK,Carexil 5mg modified-release tablets,5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020ADBEAAAK,Longtec 5mg modified-release tablets,5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020ADBFAAAK,Oxylan 5mg prolonged-release tablets (G.L. Pharma UK Ltd),5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020ADBFAFAK,Oxylan 5mg modified-release tablets (Actavis),5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020ADBGACAK,Candox 5mg modified-release tablets,5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020ADBIACAK,Dolocodon PR 5mg tablets,5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020ADBKAAAK,Reltebon 5mg modified-release tablets,5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020ADBLAAAK,Oxeltra 5mg modified-release tablets,5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020ADBMAAAK,Abtard 5mg modified-release tablets,5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020ADBNACAK,Zomestine 5mg modified-release tablets,5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020ADBPAAAK,Leveraxo 5mg modified-release tablets,5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020ADBRAAAK,Renocontin 5mg modified-release tablets,5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020ADBSAAAK,Oxypro 5mg modified-release tablets,5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020ADBTAAAK,Ixyldone 5mg modified-release tablets,5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020Z0AAAAAA,Oxycodone 30mg suppositories,30.000000000,,1.5,45.0
+387024006,Oxycodone hydrochloride,0407020Z0BBAAAA,Proladone 30mg suppositories,30.000000000,,1.5,45.0
+387024006,Oxycodone hydrochloride,0407020Z0AAABAB,Oxycodone hydrochloride 60mg suppositories,60.000000000,,1.5,90.0
+387024006,Oxycodone hydrochloride,0407020AFAAAAAA,Oxycodone 10mg / Naloxone 5mg modified-release tablets,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020AFBBAAAA,Targinact 10mg/5mg modified-release tablets,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020AFBCAAAA,Myloxifin 10mg/5mg modified-release tablets,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020AFBDABAA,Oxyargin 10mg/5mg modified-release tablets,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020AFBEAAAA,Sofonac 10mg/5mg modified-release tablets,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020AFAAABAB,Oxycodone 20mg / Naloxone 10mg modified-release tablets,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020AFBBABAB,Targinact 20mg/10mg modified-release tablets,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020AFBCABAB,Myloxifin 20mg/10mg modified-release tablets,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020AFBDACAB,Oxyargin 20mg/10mg modified-release tablets,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020AFBEABAB,Sofonac 20mg/10mg modified-release tablets,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020AFAAACAC,Oxycodone 5mg / Naloxone 2.5mg modified-release tablets,5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020AFBBACAC,Targinact 5mg/2.5mg modified-release tablets,5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020AFBCADAC,Myloxifin 5mg/2.5mg modified-release tablets,5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020AFBDAAAC,Oxyargin 5mg/2.5mg modified-release tablets,5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020AFBEADAC,Sofonac 5mg/2.5mg modified-release tablets,5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020AFAAADAD,Oxycodone 40mg / Naloxone 20mg modified-release tablets,40.000000000,,1.5,60.0
+387024006,Oxycodone hydrochloride,0407020AFBBADAD,Targinact 40mg/20mg modified-release tablets,40.000000000,,1.5,60.0
+387024006,Oxycodone hydrochloride,0407020AFBCACAD,Myloxifin 40mg/20mg modified-release tablets,40.000000000,,1.5,60.0
+387024006,Oxycodone hydrochloride,0407020AFBDADAD,Oxyargin 40mg/20mg modified-release tablets,40.000000000,,1.5,60.0
+387024006,Oxycodone hydrochloride,0407020AFBEACAD,Sofonac 40mg/20mg modified-release tablets,40.000000000,,1.5,60.0
+387024006,Oxycodone hydrochloride,0407020ADAAAPAP,Oxycodone 120mg modified-release tablets,120.000000000,,1.5,180.0
+387024006,Oxycodone hydrochloride,0407020ADBCAFAP,OxyContin 120mg modified-release tablets,120.000000000,,1.5,180.0
+387024006,Oxycodone hydrochloride,0407020ADBEAFAP,Longtec 120mg modified-release tablets,120.000000000,,1.5,180.0
+387024006,Oxycodone hydrochloride,0407020ADAAAQAQ,Oxycodone 60mg modified-release tablets,60.000000000,,1.5,90.0
+387024006,Oxycodone hydrochloride,0407020ADBCAGAQ,OxyContin 60mg modified-release tablets,60.000000000,,1.5,90.0
+387024006,Oxycodone hydrochloride,0407020ADBEAIAQ,Longtec 60mg modified-release tablets,60.000000000,,1.5,90.0
+387024006,Oxycodone hydrochloride,0407020ADBFAMAQ,Oxylan 60mg prolonged-release tablets (G.L. Pharma UK Ltd),60.000000000,,1.5,90.0
+387024006,Oxycodone hydrochloride,0407020ADBKAHAQ,Reltebon 60mg modified-release tablets,60.000000000,,1.5,90.0
+387024006,Oxycodone hydrochloride,0407020ADBLADAQ,Oxeltra 60mg modified-release tablets,60.000000000,,1.5,90.0
+387024006,Oxycodone hydrochloride,0407020ADBMAGAQ,Abtard 60mg modified-release tablets,60.000000000,,1.5,90.0
+387024006,Oxycodone hydrochloride,0407020ADBPAFAQ,Leveraxo 60mg modified-release tablets,60.000000000,,1.5,90.0
+387024006,Oxycodone hydrochloride,0407020ADBRAGAQ,Renocontin 60mg modified-release tablets,60.000000000,,1.5,90.0
+387024006,Oxycodone hydrochloride,0407020ADBSAGAQ,Oxypro 60mg modified-release tablets,60.000000000,,1.5,90.0
+387024006,Oxycodone hydrochloride,0407020ADBTAGAQ,Ixyldone 60mg modified-release tablets,60.000000000,,1.5,90.0
+387024006,Oxycodone hydrochloride,0407020ADAAARAR,Oxycodone 30mg modified-release tablets,30.000000000,,1.5,45.0
+387024006,Oxycodone hydrochloride,0407020ADBCAHAR,OxyContin 30mg modified-release tablets,30.000000000,,1.5,45.0
+387024006,Oxycodone hydrochloride,0407020ADBEAHAR,Longtec 30mg modified-release tablets,30.000000000,,1.5,45.0
+387024006,Oxycodone hydrochloride,0407020ADBFALAR,Oxylan 30mg prolonged-release tablets (G.L. Pharma UK Ltd),30.000000000,,1.5,45.0
+387024006,Oxycodone hydrochloride,0407020ADBKAGAR,Reltebon 30mg modified-release tablets,30.000000000,,1.5,45.0
+387024006,Oxycodone hydrochloride,0407020ADBLACAR,Oxeltra 30mg modified-release tablets,30.000000000,,1.5,45.0
+387024006,Oxycodone hydrochloride,0407020ADBMAFAR,Abtard 30mg modified-release tablets,30.000000000,,1.5,45.0
+387024006,Oxycodone hydrochloride,0407020ADBPADAR,Leveraxo 30mg modified-release tablets,30.000000000,,1.5,45.0
+387024006,Oxycodone hydrochloride,0407020ADBRAEAR,Renocontin 30mg modified-release tablets,30.000000000,,1.5,45.0
+387024006,Oxycodone hydrochloride,0407020ADBSAEAR,Oxypro 30mg modified-release tablets,30.000000000,,1.5,45.0
+387024006,Oxycodone hydrochloride,0407020ADBTAEAR,Ixyldone 30mg modified-release tablets,30.000000000,,1.5,45.0
+387024006,Oxycodone hydrochloride,0407020ADAAASAS,Oxycodone 15mg modified-release tablets,15.000000000,,1.5,22.5
+387024006,Oxycodone hydrochloride,0407020ADBCAIAS,OxyContin 15mg modified-release tablets,15.000000000,,1.5,22.5
+387024006,Oxycodone hydrochloride,0407020ADBEAGAS,Longtec 15mg modified-release tablets,15.000000000,,1.5,22.5
+387024006,Oxycodone hydrochloride,0407020ADBFAKAS,Oxylan 15mg prolonged-release tablets (G.L. Pharma UK Ltd),15.000000000,,1.5,22.5
+387024006,Oxycodone hydrochloride,0407020ADBKAFAS,Reltebon 15mg modified-release tablets,15.000000000,,1.5,22.5
+387024006,Oxycodone hydrochloride,0407020ADBLAGAS,Oxeltra 15mg modified-release tablets,15.000000000,,1.5,22.5
+387024006,Oxycodone hydrochloride,0407020ADBMACAS,Abtard 15mg modified-release tablets,15.000000000,,1.5,22.5
+387024006,Oxycodone hydrochloride,0407020ADBRACAS,Renocontin 15mg modified-release tablets,15.000000000,,1.5,22.5
+387024006,Oxycodone hydrochloride,0407020ADBSACAS,Oxypro 15mg modified-release tablets,15.000000000,,1.5,22.5
+387024006,Oxycodone hydrochloride,0407020ADBTACAS,Ixyldone 15mg modified-release tablets,15.000000000,,1.5,22.5
+387024006,Oxycodone hydrochloride,0407020ADAAAUAU,Oxycodone 10mg tablets,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADBUAAAU,Oxyact 10mg tablets,10.000000000,,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADAAAVAV,Oxycodone 20mg tablets,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020ADBUABAV,Oxyact 20mg tablets,20.000000000,,1.5,30.0
+387024006,Oxycodone hydrochloride,0407020ADAAATAT,Oxycodone 5mg tablets,5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020ADBUACAT,Oxyact 5mg tablets,5.000000000,,1.5,7.5
+387024006,Oxycodone hydrochloride,0407020ADAAABAB,Oxycodone 10mg/ml oral solution sugar free,10.000000000,1.000000000,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADBBABAB,OxyNorm 10mg/ml concentrate oral solution,10.000000000,1.000000000,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADBJAHAB,Shortec 10mg/ml concentrate oral solution,10.000000000,1.000000000,1.5,15.0
+387024006,Oxycodone hydrochloride,0407020ADAAAAAA,Oxycodone 5mg/5ml oral solution sugar free,1.000000000,1.000000000,1.5,1.5
+387024006,Oxycodone hydrochloride,0407020ADBBAAAA,OxyNorm liquid 5mg/5ml oral solution,1.000000000,1.000000000,1.5,1.5
+387024006,Oxycodone hydrochloride,0407020ADBJAGAA,Shortec liquid 1mg/ml oral solution,1.000000000,1.000000000,1.5,1.5
+387024006,Oxycodone hydrochloride,0407020ADAAALAL,Oxycodone 10mg/1ml solution for injection ampoules,10.000000000,1.000000000,3.0,30.0
+387024006,Oxycodone hydrochloride,0407020ADBBAFAL,OxyNorm 10mg/1ml solution for injection ampoules,10.000000000,1.000000000,3.0,30.0
+387024006,Oxycodone hydrochloride,0407020ADBJADAL,Shortec 10mg/1ml solution for injection ampoules,10.000000000,1.000000000,3.0,30.0
+387024006,Oxycodone hydrochloride,0407020ADAAAMAM,Oxycodone 20mg/2ml solution for injection ampoules,10.000000000,1.000000000,3.0,60.0
+387024006,Oxycodone hydrochloride,0407020ADBBAGAM,OxyNorm 20mg/2ml solution for injection ampoules,10.000000000,1.000000000,3.0,60.0
+387024006,Oxycodone hydrochloride,0407020ADBJAEAM,Shortec 20mg/2ml solution for injection ampoules,10.000000000,1.000000000,3.0,60.0
+387024006,Oxycodone hydrochloride,0407020ADAAAJAJ,Oxycodone 5mg/5ml oral solution,1.000000000,1.000000000,1.5,1.5
+387024006,Oxycodone hydrochloride,0407020ADAAANAN,Oxycodone 50mg/1ml solution for injection ampoules,50.000000000,1.000000000,3.0,150.0
+387024006,Oxycodone hydrochloride,0407020ADBBAHAN,OxyNorm 50mg/1ml solution for injection ampoules,50.000000000,1.000000000,3.0,150.0
+387024006,Oxycodone hydrochloride,0407020ADBJAFAN,Shortec 50mg/1ml solution for injection ampoules,50.000000000,1.000000000,3.0,150.0
+387024006,Oxycodone hydrochloride,0407020AFAAAEAE,Oxycodone 40mg/5ml / Naloxone 20mg/5ml oral suspension,8.000000000,1.000000000,1.5,12.0
+395822005,Papaveretum,0407020ABAAABAB,Papaveretum 15.4mg/1ml solution for injection ampoules,15.400000000,1.000000000,0.67,10.318000000000001
+395822005,Papaveretum,0407020ABAAAIAI,Papaveretum 15.4mg/Hyoscine hydrobrom 400microg/1ml inj amp,15.400000000,1.000000000,0.67,10.318000000000001
+395822005,Papaveretum,0407020ABAAAAAA,Papaveretum 7.7mg/1ml solution for injection ampoules,7.700000000,1.000000000,0.67,5.159000000000001
+395822005,Papaveretum,0407020ABAAAKAK,Papaveretum 40mg/1ml solution for injection ampoules,40.000000000,1.000000000,0.67,26.8
+395822005,Papaveretum,0407020ABAAAPAP,Papaveretum 30mg/1ml solution for injection ampoules,30.000000000,1.000000000,0.67,20.1
+395804007,Morphine hydrochloride,0104020N0AAACAC,Generic Diocalm Dual Action chewable tablets,0.395000000,,1.0,0.395
+395804007,Morphine hydrochloride,0104020N0BBAAAC,Diocalm Dual Action chewable tablets,0.395000000,,1.0,0.395
+395804007,Morphine hydrochloride,0104020N0AAAFAF,Generic J Collis Browne's tablets,0.350000000,,1.0,0.35
+395804007,Morphine hydrochloride,0104020N0BEABAF,J Collis Browne's tablets,0.350000000,,1.0,0.35
+395804007,Morphine hydrochloride,0407020P0AAABAB,Morphine hydrochloride 15mg suppositories,15.000000000,,1.0,15.0
+395804007,Morphine hydrochloride,0104020N0AAAGAG,Generic Opazimes chewable tablets,0.250000000,,1.0,0.25
+395804007,Morphine hydrochloride,0104020N0BFAAAG,Opazimes chewable tablets,0.250000000,,1.0,0.25
+395804007,Morphine hydrochloride,0407020P0AAAQAQ,Morphine hydrochloride 10mg suppositories,10.000000000,,1.0,10.0
+395804007,Morphine hydrochloride,0407020P0AAACAC,Morphine hydrochloride 30mg suppositories,30.000000000,,1.0,30.0
+395804007,Morphine hydrochloride,0104020N0AAABAB,Kaolin and Morphine mixture,91.600000000,1000.000000000,1.0,0.0916
+395804007,Morphine hydrochloride,0407020P0AAAIAI,Morphine and Cocaine elixir,1000.000000000,1000.000000000,1.0,1.0
+395804007,Morphine hydrochloride,0407020P0AAAWAW,Morphine hydrochloride 1.5mg/5ml oral solution,0.300000000,1.000000000,1.0,0.3
+395804007,Morphine hydrochloride,0407020P0AAAPAP,Morphine hydrochloride 100mg/5ml oral solution,20.000000000,1.000000000,1.0,20.0
+395804007,Morphine hydrochloride,0407020P0AAASAS,Morphine hydrochloride 10mg/5ml oral solution,2.000000000,1.000000000,1.0,2.0
+395804007,Morphine hydrochloride,0407020P0AAAXAX,Morphine hydrochloride 15mg/5ml oral solution,3.000000000,1.000000000,1.0,3.0
+395804007,Morphine hydrochloride,0407020P0AAATAT,Morphine hydrochloride 25mg/5ml oral solution,5.000000000,1.000000000,1.0,5.0
+395804007,Morphine hydrochloride,0407020P0AAANAN,Morphine hydrochloride 50mg/5ml oral solution,10.000000000,1.000000000,1.0,10.0
+395804007,Morphine hydrochloride,0407020P0AAARAR,Morphine hydrochloride 5mg/5ml oral solution,1.000000000,1.000000000,1.0,1.0
+395804007,Morphine hydrochloride,0309020T0AAAHAH,Ipecacuanha and Morphine mixture BP 1980,0.091600000,1.000000000,1.0,0.0916
+395804007,Morphine hydrochloride,0407020P0AAAYAY,Morphine hydrochloride 20mg/5ml oral solution,4.000000000,1.000000000,1.0,4.0
+395804007,Morphine hydrochloride,0407020P0AAAZAZ,Morphine hydrochloride 10mg/10ml inj pre-filled syringes,1.000000000,1.000000000,2.0,20.0
+395804007,Morphine hydrochloride,0407020P0AABABA,Morphine hydrochloride 50mg/50ml inf pre-filled syringes,1.000000000,1.000000000,2.0,100.0
+395804007,Morphine hydrochloride,0407020P0AABBBB,Morphine hydrochloride 1mg/1ml inj ampoules,1.000000000,1.000000000,2.0,2.0
+395804007,Morphine hydrochloride,0407020P0AABCBC,Morphine hydrochloride 5mg/5ml inj ampoules,1.000000000,1.000000000,2.0,10.0
+442424007,Morphine tartrate,040702020AAABAB,Morphine tartrate 15mg/1ml / Cyclizine tartrate 50mg inj amp,15.000000000,1.000000000,2.0,30.0
+442424007,Morphine tartrate,040702020BBABAB,Cyclimorph 15 solution for injection 1ml ampoules,15.000000000,1.000000000,2.0,30.0
+442424007,Morphine tartrate,040702020AAAAAA,Morphine tartrate 10mg/1ml / Cyclizine tartrate 50mg inj amp,10.000000000,1.000000000,2.0,20.0
+442424007,Morphine tartrate,040702020BBAAAA,Cyclimorph 10 solution for injection 1ml ampoules,10.000000000,1.000000000,2.0,20.0
+768496009,Meptazinol hydrochloride,0407020L0AAABAB,Meptazinol 200mg tablets,200.000000000,,0.03,6.0
+768496009,Meptazinol hydrochloride,0407020L0BBAAAB,Meptid 200mg tablets,200.000000000,,0.03,6.0
+768496009,Meptazinol hydrochloride,0407020L0AAAAAA,Meptazinol 100mg/1ml solution for injection ampoules,100.000000000,1.000000000,0.03,3.0
+768496009,Meptazinol hydrochloride,0407020L0BBABAA,Meptid 100mg/1ml solution for injection ampoules,100.000000000,1.000000000,0.03,3.0
